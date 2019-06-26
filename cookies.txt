@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.innovationpolicyplatform.org	TRUE	/	FALSE	1999999999	SSESS600ebd629734057f26e87fe434660c9c	sMyYCAV8ikXynRxxXBCvStJG322tIMlDXeZ0A_nItyc
+.innovationpolicyplatform.org	TRUE	/	FALSE	1999999999	SESS600ebd629734057f26e87fe434660c9c	xhb5codlAjGIf2mFerSjfKqMBfj_xgXoa-LeLzQPrr8
+

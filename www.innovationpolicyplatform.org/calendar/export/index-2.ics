@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Date iCal//NONSGML kigkonsult.se iCalcreator 2.20.2//
+METHOD:PUBLISH
+X-WR-CALNAME;VALUE=TEXT:Innovation Policy Platform
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20161106T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RDATE:20171105T020000
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160313T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20170312T020000,20180311T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.25366.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T215949Z
+CREATED:20180205T104414Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\nThe objective of t
+ he Workshop is to distil an update on principles for access to data from p
+ ublic research by synthesising current knowledge about the key issues whic
+ h resulted from a survey on the topic of open access to data in science\, 
+ technology and innovation\, based on the analysis of responses to a questi
+ onnaire regarding current usage and future needs concerning policies for o
+ pen access to data.
+DTSTART;VALUE=DATE:20180313
+DTEND;VALUE=DATE:20180314
+LAST-MODIFIED:20180309T161641Z
+SUMMARY:The objective of the Workshop is to distil an update on principles 
+ for access to data from public research by synthesising current knowledge 
+ about the key issues which resulted from a survey on the topic of open acc
+ ess to data in science\, technology and innovation\, based on the analysis
+  of responses to a questionnaire regarding current usage and future needs 
+ concerning policies for open access to data.
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/science-advice-policy
+ -making-oecd-project/calendar-science-advice-policy-making/joint-cstp-gsf
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.24481.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T215949Z
+CREATED:20171122T135400Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20180212
+DTEND;VALUE=DATE:20180213
+LAST-MODIFIED:20171122T135600Z
+SUMMARY:3rd Expert Group Meeting
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/science-advice-policy
+ -making-oecd-project/calendar-science-advice-policy-making/3rd-expert-grou
+ p
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.24400.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T215949Z
+CREATED:20170921T094147Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20171019
+DTEND;VALUE=DATE:20171021
+LAST-MODIFIED:20170921T094147Z
+LOCATION:Rome\, Italy
+SUMMARY:37th Meeting of the Global Science Forum
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/science-advice-policy
+ -making-oecd-project/calendar-science-advice-policy-making/37th-meeting-gl
+ obal
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23930.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T215949Z
+CREATED:20170208T092624Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20170906
+DTEND;VALUE=DATE:20170909
+LAST-MODIFIED:20170703T080618Z
+LOCATION:United Kingdom
+SUMMARY:Workshop on Science Advice
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/science-advice-policy
+ -making-oecd-project/calendar-science-advice-policy-making/workshop-scienc
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23929.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T215949Z
+CREATED:20170208T092502Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20170505
+DTEND;VALUE=DATE:20170506
+LAST-MODIFIED:20170208T092502Z
+LOCATION:OECD - Paris
+SUMMARY:2nd Expert Group Meeting
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/science-advice-policy
+ -making-oecd-project/calendar-science-advice-policy-making/2nd-expert-grou
+ p
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23324.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T215949Z
+CREATED:20161021T151506Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20161213
+DTEND;VALUE=DATE:20161214
+LAST-MODIFIED:20161021T151506Z
+LOCATION:Paris
+SUMMARY:1st Expert Group Meeting
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/science-advice-policy
+ -making-oecd-project/calendar-science-advice-policy-making/1st-expert-grou
+ p
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22690.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T215949Z
+CREATED:20160324T140802Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\nScience and Policy
+ -Making: towards a new dialogue
+DTSTART;VALUE=DATE:20160929
+DTEND;VALUE=DATE:20161001
+LAST-MODIFIED:20160324T140802Z
+LOCATION:Brussels\, Belgium
+SUMMARY:Science and Policy-Making: towards a new dialogue
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/science-advice-policy
+ -making-oecd-project/calendar-science-advice-policy-making/2nd-internation
+ al
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22689.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T215949Z
+CREATED:20160324T135923Z
+DESCRIPTION:A
+DTSTART;TZID=America/New_York:20160726T141500
+DTEND;TZID=America/New_York:20160726T153000
+LAST-MODIFIED:20160324T135923Z
+LOCATION:Manchester\, UK
+SUMMARY:ESOF 2016 - OECD/GSF Session
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/science-advice-policy
+ -making-oecd-project/calendar-science-advice-policy-making/esof-2016-oecdg
+ sf
+END:VEVENT
+END:VCALENDAR

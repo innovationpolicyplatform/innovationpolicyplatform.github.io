@@ -1,0 +1,241 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+  
+<!-- Mirrored from www.innovationpolicyplatform.org/print/12491?page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1 by HTTrack Website Copier/3.x [XR&CO'2013], Wed, 26 Jun 2019 05:58:06 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../sites/all/themes/unify/favicon/index.ico" type="image/vnd.microsoft.icon" />
+    <base  />
+    <title>Open source</title>
+    <script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min/index.js?v=1.7.2"></script>
+<script type="text/javascript" src="../../misc/jquery-extend-3.4.0/index.js?v=1.7.2"></script>
+<script type="text/javascript" src="../../misc/jquery.once/index.js?v=1.2"></script>
+<script type="text/javascript" src="../../misc/drupal/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/libraries/bootstrap/js/bootstrap.min/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.effect.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/back_to_top/js/back_to_top/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/panopoly/panopoly_images/panopoly-images/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/media_colorbox/media_colorbox/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/om_maximenu/js/om_maximenu/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/panopoly/panopoly_admin/panopoly-admin/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/panopoly/panopoly_magic/panopoly-magic/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/panopoly/panopoly_theme/js/panopoly-accordion/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/dhtml_menu/dhtml_menu/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/libraries/jquery.imagesloaded/jquery.imagesloaded.min/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/ipp_customizations/js/ipp_customizations/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/ipp_customizations/js/jquery.tablesorter/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/themes/radix/assets/javascripts/radix-script/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/themes/unify/assets/javascripts/script/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/themes/unify/assets/javascripts/jquery.tinyscrollbar/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/themes/unify/assets/javascripts/toggle-reply-visibility/index.js?ptnq9d"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"unify","theme_token":"2X2ntT1Ktw3w8TKmatvR5IkPKJ0buwHs6JdpP6iKV8w","js":{"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/openatrium\/libraries\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/contrib\/back_to_top\/js\/back_to_top.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"profiles\/openatrium\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"sites\/all\/modules\/contrib\/om_maximenu\/js\/om_maximenu.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_magic\/panopoly-magic.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"profiles\/openatrium\/modules\/contrib\/dhtml_menu\/dhtml_menu.js":1,"sites\/all\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/custom\/ipp_customizations\/js\/ipp_customizations.js":1,"sites\/all\/modules\/custom\/ipp_customizations\/js\/jquery.tablesorter.js":1,"profiles\/openatrium\/themes\/radix\/assets\/javascripts\/radix-script.js":1,"sites\/all\/themes\/unify\/assets\/javascripts\/script.js":1,"sites\/all\/themes\/unify\/assets\/javascripts\/jquery.tinyscrollbar.js":1,"sites\/all\/themes\/unify\/assets\/javascripts\/toggle-reply-visibility.js":1}},"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_prevent_on_mobile":true,"back_to_top_prevent_in_admin":true,"back_to_top_button_type":"image"},"dhtmlMenu":{"nav":"bullet","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"100"},"effects":{"siblings":"none","children":"none","remember":"remember"},"filter":{"type":"whitelist","list":{"og-menu-single":"og-menu-single","devel":0,"main-menu":0,"management":0,"navigation":0,"shortcut-set-1":0,"user-menu":0}}},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"panopoly_magic":{"pane_add_preview_mode":"disabled"},"ipp_customizations":{"throbber":"profiles\/openatrium\/modules\/contrib\/ctools\/images\/status-active.gif","user":0},"urlIsAjaxTrusted":{"\/print\/12491?page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1":true}});
+//--><!]]>
+</script>
+    <script type="text/javascript">(function ($) { Drupal.behaviors.print = {attach: function() {$(window).load(function() {window.print();})}}})(jQuery);</script>    <meta name="robots" content="noindex, nofollow" />        <style type="text/css" media="all">
+@import url("../../modules/system/system.base/index.css?ptnq9d");
+@import url("../../modules/system/system.messages/index.css?ptnq9d");
+@import url("../../modules/system/system.theme/index.css?ptnq9d");
+</style>
+<style type="text/css" media="all">
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_core/css/panopoly-jquery-ui-theme/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min/index.css?ptnq9d");
+</style>
+<style type="text/css" media="all">
+@import url("../../sites/all/modules/contrib/back_to_top/css/back_to_top/index.css?ptnq9d");
+@import url("../../modules/comment/comment/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/contextual_tabs/contextual_tabs/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/date/date_api/date/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/date/date_repeat_field/date_repeat_field/index.css?ptnq9d");
+@import url("../../modules/field/theme/field/index.css?ptnq9d");
+@import url("../../sites/all/modules/custom/ipp_survey/ipp_survey/index.css?ptnq9d");
+@import url("../../modules/node/node/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_appearance/oa_appearance/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/oa_core/css/oa_core/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/oa_core/modules/oa_diff/oa_diff/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_events/oa-events/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_favorites/oa_favorites/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/oa_folders/oa_folders/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_media/oa_media/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_notifications/oa_notifications/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_related/oa_related/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/oa_core/modules/oa_river/oa_river/index.css?ptnq9d");
+</style>
+<style type="text/css" media="screen">
+@import url("../../profiles/openatrium/modules/apps/oa_subspaces/oa-subspaces/index.css?ptnq9d");
+</style>
+<style type="text/css" media="all">
+@import url("../../profiles/openatrium/modules/contrib/oa_core/modules/oa_teams/oa_teams/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_toolbar/css/oa_toolbar/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/oa_core/modules/oa_widgets/oa_widgets/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_wiki/oa_wiki/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/om_maximenu/css/om_maximenu/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_admin/panopoly-admin-navbar/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_core/css/panopoly-dropbutton/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_magic/css/panopoly-magic/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_theme/css/panopoly-featured/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_theme/css/panopoly-accordian/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_theme/css/panopoly-layouts/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_widgets/panopoly-widgets/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_widgets/panopoly-widgets-spotlight/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_wysiwyg/panopoly-wysiwyg/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/radix_layouts/radix_layouts/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/rpx/rpx_widgets/index.css?ptnq9d");
+@import url("../../modules/search/search/index.css?ptnq9d");
+@import url("../../modules/user/user/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/views/css/views/index.css?ptnq9d");
+</style>
+<style type="text/css" media="all">
+@import url("../../profiles/openatrium/modules/contrib/ctools/css/ctools/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/dhtml_menu/dhtml_menu/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/panels/css/panels/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/print/css/print/index.css?ptnq9d");
+</style>
+  </head>
+  <body>
+              <div class="print-logo"><img class="print-logo" id="logo" typeof="foaf:Image" src="../../sites/all/themes/unify/logo/index.png" alt="Innovation Policy Platform" /></div>
+        <div class="print-site_name">Published on <em class="placeholder">Innovation Policy Platform</em> (<a href="../../index/index.html">https://www.innovationpolicyplatform.org</a>)</div>
+    <p />
+    <div class="print-breadcrumb"><a href="../../index/index.html">Home</a> &gt; Open source</div>
+    <hr class="print-hr" />
+        <div class="print-content"><article id="node-12491" class="node node-contentpage node-content-12491 clearfix" about="/content/open-source" typeof="sioc:Item foaf:Document" role="article">
+
+        <h2>
+      Open source
+    </h2>
+    <span property="dc:title" content="Open source" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><div style="text-align: justify;">Open source refers to a production process that relies on the free exchange of knowledge and information among producers as a basis for the joint development or improvement of a product. It emerged in the software sector and is now expanding to other industries. Specific IP rights are important for the open source movement, notably those committing users to grant-backs of their modifications into the common knowledge pool. IP policy can in that way support this type of innovation production.</div></div>
+      </div>
+</div>
+
+<div class="paragraphs-items paragraphs-items-field-paragraphs paragraphs-items-field-paragraphs-print paragraphs-items-print">
+  <div class="field field-name-field-paragraphs field-type-paragraphs field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-ipp-topic-body" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-paragraph-title field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">What is open source?</div>
+      </div>
+</div>
+<div class="field field-name-field-paragraph-body field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div style="text-align:justify">Open source refers to a production process that relies on free exchanges of knowledge and information among producers as a basis for jointly developing and improving a product. </div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">An innovation can be the product of open source production if the following holds: </div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">
+<ul><li>Actors in the innovation process voluntarily disclose the knowledge (technical or not) they produce. This knowledge is “open” in that it is available to all without discrimination. </li>
+</ul><ul><li>Actors in the innovation process interact in a bazaar mode, meaning that the open disclosure of knowledge initiates a long lasting chain of exchanges and collaborations in order to enrich the open knowledge base (i.e. knowledge disclosure is continuous and is not the work of one single individual at a single point in time). </li>
+</ul></div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">The most prominent example is open source software, which is released with its source code, made available and developed following a loose organization (Raymond, 1999). This differs from the traditional in-house conception of software, based on hierarchy, secrecy and control.</div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">Open source and open innovation (see <a href="../../content/open-innovation/index-3.html?topic-filters=8713" target="_blank" rel="nofollow">Open innovation</a> <span class="print-footnote">[1]</span>) differ in two central dimensions: </div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">
+<ul><li>The degree of openness. Open source is more “open” in that producers abandon their right to control the use of the technologies they develop and give up any possibility of controlling knowledge flows, in the sense that anybody can use the knowledge once it has been disclosed. In contrast, participants in open innovation projects usually rely on exclusive appropriation strategies. </li>
+</ul><ul><li>The degree of interactivity. Open source is more interactive, since actors involved in open source projects continuously exchange knowledge over a significantly longer period of time. In contrast, open innovation can be about spot knowledge transaction. Furthermore, open source often involves many different actors in a community and peer production, while open innovation usually relies on bilateral exchanges (in and out-licensing, merges, spin-in and out, etc.).</li>
+</ul></div>
+</div>
+      </div>
+</div>
+  </div>
+</div>
+</div>
+          <div class="field-item odd"><div class="entity entity-paragraphs-item paragraphs-item-ipp-topic-body" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-paragraph-title field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">How does IP relate to open source? </div>
+      </div>
+</div>
+<div class="field field-name-field-paragraph-body field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div style="text-align:justify">Open source software often uses licenses to forbid the closing of the source code, and stipulates that everyone can use, modify, copy and even distribute the software on the unique condition that any change is protected by the same system. Licensing contracts for open source projects can contain grant-back provisions that require users to commit to licensing any improvement back into the open pool: Users of open source technologies are granted a license only if they agree to share any alteration they might make to the technology with its creators and to keep it in the “free” regime. This helps avoid the case of free riders taking advantage of the open knowledge space and then protecting their improvements via intellectual property rights, thus introducing closure into the knowledge space. Anticipating such free riding behaviors, fewer participants may be willing to contribute, thus slowing down the pace of open source development. Therefore, IP rights are at the heart of the open source mode of functioning.</div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">How well do these licenses perform in supporting open source? Gambardella and Hall (2006) studied this issue and stressed two opposite effects. On the one hand, such licenses may trigger greater participation in the development of open source initiatives because some contributors, who may have contributed under a private patent regime, are now constrained by the terms of the license to contribute in an open way. But on the other hand, since the license restricts contributors’ rights, it may also deter some of them from contributing at all. In the case of software, it seems that the more restrictive the open license, the lower the probability of achieving a stable mature software product (Comino et al., 2007).</div>
+</div>
+      </div>
+</div>
+  </div>
+</div>
+</div>
+          <div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-ipp-topic-body" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-paragraph-title field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">How important is open source in practice?</div>
+      </div>
+</div>
+<div class="field field-name-field-paragraph-body field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div style="text-align:justify">In software, the open source movement is usually associated with the creation of the free software foundation (FSF) in 1984. The purpose of this foundation was to promote the elaboration and development of free software, an important feature of which is the release of the source code. In order to ensure the freedom of software, the FSF developed the General Public License (GPL). Also, the FSF launched the GNU project, which aimed at developing an open source operating system that would provide an alternative to UNIX. This project ended successfully in 1991 with the development of LINUX. While the open source movement emerged in software in the 80s, it is now growing in many other sectors. While LINUX is the most famous success story of the open source movement, it is not the only one: other prominent examples of successful free software include Sendmail, which underlies the routing of e-mails over the Internet, Apache, a free server programme that runs more than half of web servers, Mozilla firefox (the web browser) and Android, which is now the most used operating system in smartphones.</div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">The success of open source can also be seen beyond software. For instance, the encyclopedia Wikipedia is an open source product that has been (and is still) developed thanks to interactions among millions of contributors, who voluntarily and freely share their information. This case exemplifies the role of the Internet in facilitating open source. The Internet facilitates rapid interactions among participants and reduces the costs of information flows. Other open source initiatives are now flourishing in a wide range of domains: in beverages, with the example of open source colas, which are similar to Coca Cola and whose recipes are open source; in life science and health, with initiatives such as the tropical disease initiative; in scientific research, with the science common initiative; and in robotics, with the open source robotics initiative. Even before the Internet, the open source process of production and collective invention had been observed in very traditional sectors (Allen, 1983; Nuvolari, 2004).</div>
+</div>
+      </div>
+</div>
+  </div>
+</div>
+</div>
+          <div class="field-item odd"><div class="entity entity-paragraphs-item paragraphs-item-ipp-topic-body" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-paragraph-title field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">References</div>
+      </div>
+</div>
+<div class="field field-name-field-paragraph-body field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div style="text-align:justify">
+<ul><li><span>Bonaccorsi A., Rossi C. (2003), “Why open source software can succeed”, Research Policy, 32, pp. 1243-1258.</span></li>
+</ul><ul><li><span>Burk D.L. (2002), “Open source genomics”, Journal of Science and Technology Law, 8, p. 254.</span></li>
+</ul><ul><li><span>Chesbrough, H. (2003), Open Innovation: The New Imperative for Creating and Profiting from Technology, Harvard Business School Press, Boston, MA.</span></li>
+<li><span>Comino, S., Manenti, F., and Parisi, M.-L. (2007), “From planning to mature : On the success of open source projects”, Research Policy, 36, pp. 1575-1586.</span></li>
+</ul><ul><li><span>Gambardella, A., and Hall, B.H. (2006), “Proprietary versus public domain licensing of software and research products,” Research Policy, 35, pp. 875-892.</span></li>
+</ul><ul><li><span>Heron, M. J., Hanson, V. L., and Ricketts, I. (2013), “Open source and accessibility: Advantages and limitations”, Journal of Interaction Science, 1(1), pp. 1-10.</span></li>
+</ul><ul><li><span>Lakhani, K. R., von Hippel, E. (2003), “How open source software works : ‘Free’ user-touser assistance”, Research Policy, 32, pp. 923-943.</span></li>
+</ul><ul><li><span>Lerner, J. and Tirole, J. (2005), “The economics of technology sharing: Open source and beyond”, The Journal of Economic Perspectives, Vol. 19, No. 2, pp. 99-120.</span></li>
+</ul><ul><li><span>Osterloh, M. and Rota, S. (2007), “Open source software development – just another case of collective invention?”, Research Policy, 36 (2): pp. 157-171.</span></li>
+</ul><ul><li><span>Weber S. (2004), The Success of Open Source, Harvard University Press.</span></li>
+</ul></div>
+</div>
+      </div>
+</div>
+  </div>
+</div>
+</div>
+      </div>
+</div>
+</div>
+  </div>
+
+  
+  
+</article>
+</div>
+    <div class="print-footer">
+</div>
+    <hr class="print-hr" />
+          <div class="print-source_url">
+        <strong>Source URL:</strong> https://www.innovationpolicyplatform.org/content/open-source?page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1      </div>
+        <div class="print-links"><p><strong>Links</strong><br />[1] https://www.innovationpolicyplatform.org/content/open-innovation?topic-filters=8713<br />
+</p></div>
+      </body>
+
+<!-- Mirrored from www.innovationpolicyplatform.org/print/12491?page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1 by HTTrack Website Copier/3.x [XR&CO'2013], Wed, 26 Jun 2019 05:58:06 GMT -->
+</html>

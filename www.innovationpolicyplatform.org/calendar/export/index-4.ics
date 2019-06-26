@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Date iCal//NONSGML kigkonsult.se iCalcreator 2.20.2//
+METHOD:PUBLISH
+X-WR-CALNAME;VALUE=TEXT:Innovation Policy Platform
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RDATE:20161106T020000,20171105T020000
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160313T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20170312T020000,20180311T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.24402.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20170921T094521Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20171018
+DTEND;VALUE=DATE:20171019
+LAST-MODIFIED:20170921T094521Z
+LOCATION:Rome\, Italy
+SUMMARY:OECD-GSF Workshop on Open Data
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/oecd-gsf-workshop-open-data
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.24401.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20170921T094357Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20171019
+DTEND;VALUE=DATE:20171021
+LAST-MODIFIED:20170921T094357Z
+LOCATION:Rome\, Italy
+SUMMARY:37th Meeting of the Global Science Forum
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/37th-meeting-global-science-forum
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.24203.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20170420T093555Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20170919
+DTEND;VALUE=DATE:20170922
+LAST-MODIFIED:20170420T093555Z
+LOCATION:Montreal Canada
+SUMMARY:RDA 10th Plenary Meeting
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/rda-10th-plenary-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23500.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20170105T174218Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20170115
+DTEND;VALUE=DATE:20170116
+LAST-MODIFIED:20170105T174218Z
+LOCATION:Paris
+SUMMARY:EVENT TEST
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/event-test
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23469.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20161214T154510Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20170306
+DTEND;VALUE=DATE:20170307
+LAST-MODIFIED:20161214T154510Z
+LOCATION:Paris
+SUMMARY:2nd Expert Group Meeting on Business Models for Data Repositories
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/2nd-expert-group-meeting-business-mod
+ els
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23323.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20161021T150645Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20170405
+DTEND;VALUE=DATE:20170408
+LAST-MODIFIED:20161021T150645Z
+LOCATION:Barcelona\, Spain
+SUMMARY:RDA 9th Plenary Meeting
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/rda-9th-plenary-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23322.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20161021T150130Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20170330
+DTEND;VALUE=DATE:20170401
+LAST-MODIFIED:20161021T150130Z
+LOCATION:Belgium
+SUMMARY:1st Workshop on International Coordination of Data Infrastructure f
+ or Open Science
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/1st-workshop-international-coordinati
+ on
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23321.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20161021T145852Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20170328
+DTEND;VALUE=DATE:20170330
+LAST-MODIFIED:20161021T145852Z
+LOCATION:Belgium
+SUMMARY:2nd Workshop on Business Models for Data Repositories
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/2nd-workshop-business-models-data
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22956.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20160831T153254Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20161103
+DTEND;VALUE=DATE:20161105
+LAST-MODIFIED:20160831T153254Z
+LOCATION:OECD\, Paris
+SUMMARY:1st Workshop on Business Models for Data Repositories
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/1st-workshop-business-models-data
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22696.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20160324T152046Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20160911
+DTEND;VALUE=DATE:20160918
+LAST-MODIFIED:20160831T152002Z
+LOCATION:Denver (CO)\, US
+SUMMARY:International Data Week
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/international-data-week
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22694.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20160324T151102Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\n1st OECD/GSF - COD
+ ATA Expert Group Meeting on Business Models for Data Repositories
+DTSTART;VALUE=DATE:20160419
+DTEND;VALUE=DATE:20160420
+LAST-MODIFIED:20160324T151102Z
+LOCATION:OECD\, Paris
+SUMMARY:1st OECD/GSF - CODATA Expert Group Meeting on Business Models for D
+ ata Repositories
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/1st-oecdgsf-codata-expert-group-meeti
+ ng
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22693.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190626T032159Z
+CREATED:20160324T150721Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\n1st OECD/GSF - WDS
+  Expert Group Meeting on International Coordination of Cyber-infrastructur
+ es
+DTSTART;VALUE=DATE:20160418
+DTEND;VALUE=DATE:20160419
+LAST-MODIFIED:20160324T150721Z
+LOCATION:OECD\, Paris
+SUMMARY:1st OECD/GSF - WDS Expert Group Meeting on International Coordinati
+ on of Cyber-infrastructures
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/open-data-science-oec
+ d-project/calendar-open-data-science/1st-oecdgsf-wds-expert-group-meeting
+END:VEVENT
+END:VCALENDAR

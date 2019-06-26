@@ -1,0 +1,32 @@
+.field-name-field-hotissue-topic {
+  font-weight: bold;
+}
+
+.field-name-field-paragraph-title {
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+.field-name-field-hotissues .field-label {
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.field-name-field-hotissues .field-name-field-hotissue-topic {
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+.field-name-field-highlights {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.field-name-field-highlights .field-label {
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.field-name-field-highlights .field-name-field-highlight-topic {
+  font-weight: bold;
+  margin-top: 1em;
+}

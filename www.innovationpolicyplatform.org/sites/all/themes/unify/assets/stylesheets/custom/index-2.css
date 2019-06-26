@@ -1,0 +1,41 @@
+/* CSS customizations that have not been ported to SASS yet. */
+.pane-content .node-oa-space.node-teaser footer {
+  display: none;
+}
+.pane-content .node-oa-space.node-teaser h2 {
+  font-size: 20px;
+}
+.pane-content .node-oa-space.node-teaser .flag-favorite-space {
+  display: none;
+}
+#panels-ipe-regionid-slidergutter .nav-pills .field-name-field-basic-text-text h3 {
+  font-size: 18px;
+  line-height: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+/* Hide empty paragraph on PHP7. Github#216 */
+div.region.region-menu div.om-maximenu-tabbed-content div.om-maximenu-tabbed-content-inner.container div.block.block-block.block-block-id-3.first div.content p {
+  display: none;
+}
+
+/*Task 230561
+  16-08-2018*/
+
+.pane-ipp-core-addthis-print span.print_pdf>a.print-pdf{
+	background: url(../../images/pdf_icon/index.png) no-repeat center;
+}
+.pane-ipp-core-addthis-print span.print_html>a.print-page{
+	background: url(../../images/print_icon/index.png) no-repeat center;
+}
+.pane-ipp-core-addthis-print span.print_html>a.print-page,
+.pane-ipp-core-addthis-print span.print_pdf>a.print-pdf{
+    width: 24px;
+    height: 24px;
+    display: block;
+}	
+.pane-ipp-core-addthis-print span.print_html>a.print-page img,
+.pane-ipp-core-addthis-print span.print_pdf>a.print-pdf img{
+	display: none;
+}

@@ -1,0 +1,44 @@
+
+
+.panel-default {
+  border-color: transparent !important;
+}
+
+.panel-heading {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.panel-heading h3 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+div.panel-panel-inner div.pane-ipp-content-module-icon {
+  margin-bottom: 0 !important;
+}
+
+.top-term-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.paragraphs-item-ipp-topic-body {
+  background-color: white;
+  border: 1px solid #dddddd;;
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  margin-bottom: 21px;
+  padding: 10px;
+}
+
+.field-name-field-paragraph-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.not-logged-in #contextual-tabs {
+  display: none;
+}

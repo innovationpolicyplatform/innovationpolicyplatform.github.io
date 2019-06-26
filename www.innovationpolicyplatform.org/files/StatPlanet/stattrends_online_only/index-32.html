@@ -1,0 +1,106 @@
+<!doctype html>
+<html>
+    
+<!-- Mirrored from www.innovationpolicyplatform.org/files/StatPlanet/stattrends_online_only.html?i=INFRMLGE_XLGE by HTTrack Website Copier/3.x [XR&CO'2013], Wed, 26 Jun 2019 00:13:49 GMT -->
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>StatPlanet Cloud</title>
+        <meta name="description" content="StatPlanet Cloud">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="../apple-touch-icon/index.html">
+        <link rel="stylesheet" href="../misc/custom-bootstrap/index.css">
+        <link href="https://cloud.statsilk.com/lt/gridstack.css" rel="stylesheet" type="text/css"/>
+        <!--<link href="css/gridstack-extra.css" rel="stylesheet" type="text/css"/>-->
+       <link rel="stylesheet" href="https://cloud.statsilk.com/l/sinac/main.css">
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://s3.amazonaws.com/browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div class="container">
+            <!-- Example row of columns -->
+            <div class="row">
+                <div class="col-md-12" id="statsilk-container"></div>
+            </div>
+
+        </div> <!-- /container -->
+        <script src="https://cloud.statsilk.com/l/sinac/statplanet_cloud0.js"></script>
+        <script>
+		    // **** CONFIGURATION *************************************************
+			
+            var data_file = "data/structure.csv";
+			var settings_file = "data/settings_trends.csv";
+			var map_file = "../map/map/index.js";
+			
+			// ********************************************************************		
+
+            paceOptions = {
+                //ajax:true,
+                //document: true,
+                elements: {selectors: ['#statsilk-container']},
+                restartOnRequestAfter: false,
+                restartOnPushState: false
+            };
+        </script>  
+        <script src="https://cloud.statsilk.com/l/sinac/statplanet_cloud1.js"></script>
+        <script>
+            var preload = new createjs.LoadQueue(true);
+            preload.on("progress", handleFileProgress);
+            preload.on("complete", loadComplete);
+            paceOptions = {
+                ajax: true,
+                document: false,
+                elements: {
+                    selectors: ['#statsilk-container']
+                }
+            };
+            var manifest = [
+                {src: "https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"},
+				{src: "misc/statplanet_cloud2b.js"},
+                {src: "misc/statplanet_cloud2c.js"},
+                {src: "misc/statplanet_cloud3.js"}, 
+				{src: "misc/statplanet_cloud4.js"}, 
+				{src: "https://cloud.statsilk.com/lt/statplanet_cloud5.js"}, 
+                {src: "https://cloud.statsilk.com/lt/statplanet_cloud5b.js"},
+                {src: "https://cloud.statsilk.com/lt/statplanet_cloud5c.js"},
+                {src: "misc/statplanet_cloud5d.js"},
+                {src: "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.js"},
+                {src: "https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.5.0/lodash.min.js"},
+                {src: "misc/statplanet_cloud6.js"},
+                {src: "misc/statplanet_cloud7.js"}, 
+                {src: "misc/statplanet_cloud8.js"}, 
+				{src: "misc/list.min.js"}, 
+				{src: "misc/list.fuzzysearch.min.js"}, 
+                {src: "https://cloud.statsilk.com/l/oecd/statplanet_cloud2.0.js"}
+            ];
+            preload.loadManifest(manifest);
+            function handleFileProgress() {
+            }
+            function loadComplete() {
+                Array.prototype.max = function () {
+                    return Math.max.apply(null, this);
+                };
+
+                Array.prototype.min = function () {
+                    return Math.min.apply(null, this);
+                };
+                $(function () {
+                    $('#statsilk-container').statsilk({
+                        gridstackOptions:{
+                                cellHeight: 10,
+                                verticalMargin: 10,
+                        },
+                        dataFile: data_file,
+                        settingsFile: settings_file,
+                        mapDataFile:"",
+						tempMapData:"Statplanet.maps['custom/map']"	,
+						//startupParams:'v=3&t=1980,2014&s=IDN,RUS,GBR,USA',                        											
+                    });					
+                });
+            }
+        </script>
+    </body>
+
+<!-- Mirrored from www.innovationpolicyplatform.org/files/StatPlanet/stattrends_online_only.html?i=INFRMLGE_XLGE by HTTrack Website Copier/3.x [XR&CO'2013], Wed, 26 Jun 2019 00:13:49 GMT -->
+</html>

@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Date iCal//NONSGML kigkonsult.se iCalcreator 2.20.2//
+METHOD:PUBLISH
+X-WR-CALNAME;VALUE=TEXT:Innovation Policy Platform
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RDATE:20161106T020000,20171105T020000
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000,20170312T020000,20180311T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.23923.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20170207T101918Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\nOECD Space Forum W
+ orkshop -  Economic and Innovation Indicators in the Space Economy\, OECD 
+ Paris.\n\n\nPlease contact the OECD Secretariat for more information.
+DTSTART;VALUE=DATE:20170622
+DTEND;VALUE=DATE:20170624
+LAST-MODIFIED:20170207T101918Z
+LOCATION:OECD\, Paris
+SUMMARY:OECD Space Forum Workshop -  Economic and Innovation Indicators in 
+ the Space Economy\, OECD Paris.\n\nPlease contact the OECD Secretariat for
+  more information.
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-space-forum-workshop-economic-and-innovation
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23346.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20161102T135644Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20171027
+DTEND;VALUE=DATE:20171028
+LAST-MODIFIED:20161102T135644Z
+SUMMARY:OECD Space Forum: Annual Steering Group Meeting
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-space-forum-annual-steering-group-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23345.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20161102T135555Z
+DESCRIPTION:A
+DTSTART;VALUE=DATE:20171026
+DTEND;VALUE=DATE:20171027
+LAST-MODIFIED:20161102T135555Z
+SUMMARY:OECD Space Forum Workshop on satellite data and the digitalisation 
+ of the economy
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-space-forum-workshop-satellite-data-and
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23344.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20161102T134858Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\n26 October 2017 (O
+ ECD\, Paris): Workshop - Satellite data and the digitalisation of the econ
+ omy.\n\n\nPlease contact the OECD Secretariat for more information. 
+DTSTART;VALUE=DATE:20171026
+DTEND;VALUE=DATE:20171027
+LAST-MODIFIED:20170207T101107Z
+SUMMARY:26 October 2017 (OECD\, Paris): Workshop - Satellite data and the d
+ igitalisation of the economy.\n\nPlease contact the OECD Secretariat for m
+ ore information. 
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-space-forum-workshop-satellite-data-and-0
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.23343.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20161102T134741Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\n21 June 2017 (host
+ ed by CNES\, Paris)\n\n\nJoint Seminar with the SATTO Group (Space Agency 
+ Technology Transfer Officers Group) –  Technology Transfer and Commerciali
+ sation (TTC) from Space Programmes : Enabling Conditions\, Processes and E
+ conomic Impacts.\n\n\nContact the OECD Secretariat for more information.
+DTSTART;VALUE=DATE:20170621
+DTEND;VALUE=DATE:20170622
+LAST-MODIFIED:20170207T095201Z
+SUMMARY:21 June 2017 (hosted by CNES\, Paris)\n\nJoint Seminar with the SAT
+ TO Group (Space Agency Technology Transfer Officers Group) –  Technology T
+ ransfer and Commercialisation (TTC) from Space Programmes : Enabling Condi
+ tions\, Processes and Economic Impacts.\n\nContact the OECD Secretariat fo
+ r more information.
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-space-forum-workshop-technology-transfer-and
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22114.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20151127T112402Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\nOECD Space Forum S
+ ymposium: The Space Sector and Innovation An OECD Report on Space and Inno
+ vation\, providing state-of-play\, a prospective look and recommendations\
+ , will be launched during this international event\, which will bring toge
+ ther +150 invited participants from ministries\, national administrations\
+ , the space community and beyond. Please contact the OECD Space Forum Secr
+ etariat for more information.
+DTSTART;VALUE=DATE:20161027
+DTEND;VALUE=DATE:20161028
+LAST-MODIFIED:20161017T161926Z
+LOCATION:OECD\, Paris
+SUMMARY:OECD Space Forum Symposium: The Space Sector and Innovation An OECD
+  Report on Space and Innovation\, providing state-of-play\, a prospective 
+ look and recommendations\, will be launched during this international even
+ t\, which will bring together +150 invited participants from ministries\, 
+ national administrations\, the space community and beyond. Please contact 
+ the OECD Space Forum Secretariat for more information.
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-space-forum-symposium-space-sector-and-innovati
+ on
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22113.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20151127T111408Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\nOECD Space Forum W
+ orkshop on Innovation in the Downstream Space Sector (co-hosted with ESA) 
+ (Harwell)
+DTSTART;VALUE=DATE:20160609
+DTEND;VALUE=DATE:20160611
+LAST-MODIFIED:20151127T111408Z
+LOCATION:Harwell\, UK
+SUMMARY:OECD Space Forum Workshop on Innovation in the Downstream Space Sec
+ tor (co-hosted with ESA) (Harwell)
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-space-forum-workshop-innovation-downstream-spac
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22112.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20151127T111152Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\nOECD Workshop on I
+ nnovation and Low-Cost Access to Space Workshop (co-hosted with UKSA) (Par
+ is)
+DTSTART;VALUE=DATE:20160512
+DTEND;VALUE=DATE:20160514
+LAST-MODIFIED:20151204T132607Z
+LOCATION:OECD\, Paris
+SUMMARY:OECD Workshop on Innovation and Low-Cost Access to Space Workshop (
+ co-hosted with UKSA) (Paris)
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-space-forum-workshop-innovation-and-low-cost-ac
+ cess
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22111.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20151127T111005Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\nOECD Workshop on D
+ ata to Decisions: Valuing the Societal Benefits of Geospatial Information 
+ (co-hosted with the GeoValue Community) (Paris)
+DTSTART;VALUE=DATE:20160310
+DTEND;VALUE=DATE:20160312
+LAST-MODIFIED:20151215T151022Z
+LOCATION:OECD\, Paris
+SUMMARY:OECD Workshop on Data to Decisions: Valuing the Societal Benefits o
+ f Geospatial Information (co-hosted with the GeoValue Community) (Paris)
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-space-forum-workshop-data-decisions-valuing-soc
+ ietal
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22110.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20151127T101507Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\nThe meeting’s obje
+ ctives were for the members to share information\, review Space Forum’s ac
+ tivities carried out since fall 2014 and discuss directions of work for 20
+ 16. Furthermore\, the participants were invited to make some methodologica
+ l decisions related to the forthcoming publication The OECD Handbook for M
+ easuring the Space Economy.
+DTSTART;VALUE=DATE:20151009
+DTEND;VALUE=DATE:20151010
+LAST-MODIFIED:20151127T101905Z
+LOCATION:OECD
+SUMMARY:The meeting’s objectives were for the members to share information\
+ , review Space Forum’s activities carried out since fall 2014 and discuss 
+ directions of work for 2016. Furthermore\, the participants were invited t
+ o make some methodological decisions related to the forthcoming publicatio
+ n The OECD Handbook for Measuring the Space Economy.
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-space-forum-annual-steering-group
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22109.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20151127T101125Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\nOECD Space Forum W
+ orkshop: Policy Instruments Supportive of National Space Programmes: Pract
+ ices from Around the World:\n\n\nObjectives explore approaches to garner i
+ nstitutional support when developing space activities\, with relevant avai
+ lable policy instruments.\n\n\nThe workshop brought together around 40 par
+ ticipants from 14 countries (Brazil\, Canada\, China\, France\, Germany\, 
+ Italy\, Korea\, Mexico\, Norway\, Poland\, South Africa\, Switzerland\, Un
+ ited Kingdom\, United States)\, the European Space Agency\, as well as exp
+ erts\, who participated the previous day’s workshop.
+DTSTART;VALUE=DATE:20151008
+DTEND;VALUE=DATE:20151009
+LAST-MODIFIED:20151127T101125Z
+LOCATION:OECD
+SUMMARY:OECD Space Forum Workshop: Policy Instruments Supportive of Nationa
+ l Space Programmes: Practices from Around the World:\n\nObjectives explore
+  approaches to garner institutional support when developing space activiti
+ es\, with relevant available policy instruments.\n\nThe workshop brought t
+ ogether around 40 participants from 14 countries (Brazil\, Canada\, China\
+ , France\, Germany\, Italy\, Korea\, Mexico\, Norway\, Poland\, South Afri
+ ca\, Switzerland\, United Kingdom\, United States)\, the European Space Ag
+ ency\, as well as experts\, who participated the previous day’s workshop.
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-space-forum-workshop-policy-instruments-support
+ ive
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.22108.field_oa_date.0@www.innovationpolicyplatform.org
+DTSTAMP:20190625T180843Z
+CREATED:20151127T100903Z
+DESCRIPTION:A\n  \n  \n\n    \n\n    \n\n          \n\n\nOECD hosted for th
+ e first time a meeting of the Coordination Group for Meteorological Satell
+ ites\, in coordination with NOAA:\n\n\nObjectives: enhance cooperation bet
+ ween the OECD Space Forum and the satellite weather community\, as both gr
+ oups aim to develop approaches and best practices for conducting socioecon
+ omic benefit studies.\n\n\nThe workshop had some 25 participants from ten 
+ countries (Canada\, China\, France\, Germany\, Italy\, Japan\, Korea\, and
+  the United States)\, as well as intergovernmental bodies (WMO…) and repre
+ sentatives from academia\, with webex links in five time zones (from Calif
+ ornia\, Washington DC\, Switzerland\, China\, Japan).
+DTSTART;VALUE=DATE:20151007
+DTEND;VALUE=DATE:20151008
+LAST-MODIFIED:20151127T100903Z
+SUMMARY:OECD hosted for the first time a meeting of the Coordination Group 
+ for Meteorological Satellites\, in coordination with NOAA:\n\nObjectives: 
+ enhance cooperation between the OECD Space Forum and the satellite weather
+  community\, as both groups aim to develop approaches and best practices f
+ or conducting socioeconomic benefit studies.\n\nThe workshop had some 25 p
+ articipants from ten countries (Canada\, China\, France\, Germany\, Italy\
+ , Japan\, Korea\, and the United States)\, as well as intergovernmental bo
+ dies (WMO…) and representatives from academia\, with webex links in five t
+ ime zones (from California\, Washington DC\, Switzerland\, China\, Japan).
+URL;TYPE=URI:https://www.innovationpolicyplatform.org/oecd-space-forum/oecd
+ -space-forum-calendar/oecd-hosted-meeting-coordination-group-meteorologica
+ l
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1466 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+
+<!-- Mirrored from www.innovationpolicyplatform.org/content/patent-data-patent-valuation-methods?topic-filters=12279&page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1 by HTTrack Website Copier/3.x [XR&CO'2013], Wed, 26 Jun 2019 04:45:22 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../sites/all/themes/unify/favicon/index.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="The IPP aims to provide policy practitioners with a simple and easy-to-use tool, supporting them in the innovation policy-making process." />
+<meta name="abstract" content="The IPP aims to provide policy practitioners with a simple and easy-to-use tool, supporting them in the innovation policy-making process." />
+<meta name="keywords" content="innovation, policy" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../patent-data-patent-valuation-methods/index.html" />
+<link rel="shortlink" href="../patent-data-patent-valuation-methods/index.html" />
+<meta property="og:site_name" content="Innovation Policy Platform" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="../patent-data-patent-valuation-methods/index.html" />
+<meta property="og:title" content="Patent data - Patent valuation methods" />
+<meta property="og:description" content="The IPP aims to provide policy practitioners with a simple and easy-to-use tool, supporting them in the innovation policy-making process." />
+<meta property="og:image" content="../../sites/all/themes/unify/assets/images/logo4facebook/index.png" />
+  <title>Patent data - Patent valuation methods | Innovation Policy Platform</title>
+  <style type="text/css" media="all">
+@import url("../../modules/system/system.base/index.css?ptnq9d");
+@import url("../../modules/system/system.messages/index.css?ptnq9d");
+@import url("../../modules/system/system.theme/index.css?ptnq9d");
+</style>
+<style type="text/css" media="all">
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_core/css/panopoly-jquery-ui-theme/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min/index.css?ptnq9d");
+@import url("../../sites/all/libraries/chosen/chosen/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/chosen/css/chosen-drupal/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/media/css/media/index.css?ptnq9d");
+</style>
+<style type="text/css" media="all">
+@import url("../../sites/all/modules/contrib/back_to_top/css/back_to_top/index.css?ptnq9d");
+@import url("../../modules/comment/comment/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/contextual_tabs/contextual_tabs/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/date/date_api/date/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/date/date_repeat_field/date_repeat_field/index.css?ptnq9d");
+@import url("../../modules/field/theme/field/index.css?ptnq9d");
+@import url("../../sites/all/modules/custom/ipp_survey/ipp_survey/index.css?ptnq9d");
+@import url("../../modules/node/node/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_appearance/oa_appearance/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/oa_core/css/oa_core/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/oa_core/modules/oa_diff/oa_diff/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_events/oa-events/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_favorites/oa_favorites/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/oa_folders/oa_folders/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_media/oa_media/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_notifications/oa_notifications/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_related/oa_related/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/oa_core/modules/oa_river/oa_river/index.css?ptnq9d");
+</style>
+<style type="text/css" media="screen">
+@import url("../../profiles/openatrium/modules/apps/oa_subspaces/oa-subspaces/index.css?ptnq9d");
+</style>
+<style type="text/css" media="all">
+@import url("../../profiles/openatrium/modules/contrib/oa_core/modules/oa_teams/oa_teams/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_toolbar/css/oa_toolbar/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/oa_core/modules/oa_widgets/oa_widgets/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/apps/oa_wiki/oa_wiki/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/om_maximenu/css/om_maximenu/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_admin/panopoly-admin-navbar/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_core/css/panopoly-dropbutton/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_magic/css/panopoly-magic/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_theme/css/panopoly-featured/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_theme/css/panopoly-accordian/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_theme/css/panopoly-layouts/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_widgets/panopoly-widgets/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_widgets/panopoly-widgets-spotlight/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_wysiwyg/panopoly-wysiwyg/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/radix_layouts/radix_layouts/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/rpx/rpx_widgets/index.css?ptnq9d");
+@import url("../../modules/search/search/index.css?ptnq9d");
+@import url("../../modules/user/user/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/views/css/views/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/caption_filter/caption-filter/index.css?ptnq9d");
+</style>
+<style type="text/css" media="all">
+@import url("../../sites/all/libraries/colorbox/example1/colorbox/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/ctools/css/ctools/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/dhtml_menu/dhtml_menu/index.css?ptnq9d");
+@import url("../../sites/all/modules/features/ipp_content/topic/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/ctools/css/modal/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/modal_forms/css/modal_forms_popup/index.css?ptnq9d");
+@import url("../../profiles/openatrium/modules/contrib/panels/css/panels/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/print/print_ui/css/print_ui.theme/index.css?ptnq9d");
+@import url("../../sites/all/modules/contrib/om_maximenu/skin/simple/simple/index.css?ptnq9d");
+@import url("../../sites/all/modules/custom/geonav/jvector/jquery-jvectormap/index.css?ptnq9d");
+</style>
+
+<!--[if lt IE 10]>
+<style type="text/css" media="all">
+@import url("https://www.innovationpolicyplatform.org/sites/default/files/ctools/css/a52e435287606846dff0bf5be48a78ba.css?ptnq9d");
+</style>
+<![endif]-->
+<style type="text/css" media="all">
+@import url("../../profiles/openatrium/themes/oa_radix/assets/stylesheets/screen/index.css?ptnq9d");
+@import url("../../profiles/openatrium/themes/oa_radix/assets/stylesheets/font-awesome.min/index.css?ptnq9d");
+@import url("../../profiles/openatrium/themes/oa_radix/assets/stylesheets/font-awesome32.min/index.css?ptnq9d");
+@import url("../../sites/all/themes/unify/assets/stylesheets/sub-screen/index.css?ptnq9d");
+@import url("../../sites/all/themes/unify/assets/stylesheets/custom/index.css?ptnq9d");
+</style>
+<style type="text/css" media="print">
+@import url("../../sites/all/themes/unify/assets/stylesheets/print/index.css?ptnq9d");
+@import url("../../sites/all/themes/unify/assets/stylesheets/flag/index.css?ptnq9d");
+</style>
+
+<!--[if lte IE 9]>
+<style type="text/css" media="all">
+@import url("https://www.innovationpolicyplatform.org/profiles/openatrium/themes/radix/assets/stylesheets/ie.css?ptnq9d");
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<style type="text/css" media="all">
+@import url("https://www.innovationpolicyplatform.org/sites/all/themes/unify/assets/stylesheets/ie7.css?ptnq9d");
+</style>
+<![endif]-->
+
+<!--[if IE 8]>
+<style type="text/css" media="all">
+@import url("https://www.innovationpolicyplatform.org/sites/all/themes/unify/assets/stylesheets/ie8.css?ptnq9d");
+</style>
+<![endif]-->
+<style type="text/css" media="all">
+@import url("../../profiles/openatrium/modules/panopoly/panopoly_images/panopoly-images/index.css?ptnq9d");
+</style>
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:regular|Source+Sans+Pro:600&amp;subset=latin" media="all" />
+  <script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min/index.js?v=1.7.2"></script>
+<script type="text/javascript" src="../../misc/jquery-extend-3.4.0/index.js?v=1.7.2"></script>
+<script type="text/javascript" src="../../misc/jquery.once/index.js?v=1.2"></script>
+<script type="text/javascript" src="../../misc/drupal/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/libraries/bootstrap/js/bootstrap.min/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.effect.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/media/js/media.core/index.js?v=7.x-2.21"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/external/jquery.cookie/index.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/misc/jquery.form.min/index.js?v=2.69"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../sites/all/libraries/chosen/chosen.jquery.min/index.js?v=1.1.0"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.button.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min/index.js?v=1.10.2"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/media/js/util/json2/index.js?v=7.x-2.21"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/media/js/util/ba-debug.min/index.js?v=7.x-2.21"></script>
+<script type="text/javascript" src="../../misc/ajax/index.js?v=7.67"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/jquery_update/js/jquery_update/index.js?v=0.0.1"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/back_to_top/js/back_to_top/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/panopoly/panopoly_images/panopoly-images/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/media_colorbox/media_colorbox/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/om_maximenu/js/om_maximenu/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/panopoly/panopoly_admin/panopoly-admin/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/panopoly/panopoly_magic/panopoly-magic/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/panopoly/panopoly_theme/js/panopoly-accordion/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/caption_filter/js/caption-filter/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/libraries/colorbox/jquery.colorbox-min/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/colorbox/js/colorbox/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/dhtml_menu/dhtml_menu/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../misc/progress/index.js?v=7.67"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/ctools/js/modal/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/modal_forms/js/modal_forms_popup/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/libraries/jquery.imagesloaded/jquery.imagesloaded.min/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/ipp_customizations/js/ipp_customizations/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/ipp_customizations/js/jquery.tablesorter/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/libraries/jquery.expander/jquery.expander/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/jquery_expander/js/jquery_expander/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/views/js/base/index.js?ptnq9d"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    jQuery(document).ready(function($){
+      $('#om-maximenu-main-menu ul.om-menu li.om-leaf').removeClass('active');          
+      $('#om-maximenu-main-menu ul.om-menu li.om-leaf:first-child').addClass('active');          
+      $('#om-maximenu-main-menu .om-maximenu-tabbed-content div:first-child').removeClass('om-tabbed-content-hide'); 
+               
+      $('#om-maximenu-main-menu .om-leaf .om-link').click(function () {
+        var leafId = $(this).parent().attr('id');
+        var tabbedContentId = leafId.replace('leaf', 'tabbed-content');
+        $('#om-maximenu-main-menu ul.om-menu li.om-leaf').removeClass('active');          
+        $(this).parent().addClass('active');          
+                      
+        
+        $('#om-maximenu-main-menu .om-maximenu-tabbed-content .om-tabbed-content').addClass('om-tabbed-content-hide');              
+        $('#om-maximenu-main-menu #' + tabbedContentId).removeClass('om-tabbed-content-hide');      
+      });
+    });  
+  
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    jQuery(function($) {
+      $.each($('#om-menu-main-menu .om-leaf'),function() {
+        var leafId = $(this).attr('id');
+        var tabbedContentId = leafId.replace('leaf', 'tabbed-content');
+        var active_tabbed = $('ul li a', '.om-maximenu-tabbed-content #' + tabbedContentId).hasClass('active');
+
+        var active = $('ul li a', this).hasClass('active');
+        
+        if ((active_tabbed == true) || (active == true)) {
+          $('#om-menu-main-menu .om-leaf').removeClass('active-trail');
+          $(this).addClass('active-trail');
+        }
+      });
+    }); 
+//--><!]]>
+</script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/views/js/ajax_view/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/views_load_more/views_load_more/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/google_analytics/googleanalytics/index.js?ptnq9d"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.google-analytics.com/analytics.js","ga");ga("create", "UA-17367410-47", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/media/js/media.popups/index.js?v=7.x-2.21"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/apps/oa_files/js/upload/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/apps/oa_notifications/oa_notifications/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/apps/oa_toolbar/js/oa-toolbar/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/themes/radix/assets/javascripts/modernizr/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/jquery-jvectormap/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/jquery-mousewheel/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/jvectormap/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/abstract-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/abstract-canvas-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/abstract-shape-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/svg-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/svg-group-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/svg-canvas-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/svg-shape-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/svg-path-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/svg-circle-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/vml-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/vml-group-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/vml-canvas-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/vml-shape-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/vml-path-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/vml-circle-element/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/vector-canvas/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/simple-scale/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/numeric-scale/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/ordinal-scale/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/color-scale/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/data-series/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/proj/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/lib/world-map/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/tests/assets/jquery-jvectormap-world-mill-en/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/jvector/tests/assets/jquery-jvectormap-custom/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/modules/custom/geonav/geonav/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/contrib/chosen/chosen/index.js?v=1.1.0"></script>
+<script type="text/javascript" src="../../profiles/openatrium/themes/radix/assets/javascripts/radix-script/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/themes/unify/assets/javascripts/script/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/themes/unify/assets/javascripts/jquery.tinyscrollbar/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../sites/all/themes/unify/assets/javascripts/toggle-reply-visibility/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/themes/radix/assets/javascripts/radix-progress/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/themes/oa_radix/assets/javascripts/oa-radix-modal/index.js?ptnq9d"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"unify","theme_token":"2X2ntT1Ktw3w8TKmatvR5IkPKJ0buwHs6JdpP6iKV8w","jquery_version":"1.7","js":{"sites\/all\/modules\/features\/ipp_cop_list\/ipp_cop_list.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/openatrium\/libraries\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"profiles\/openatrium\/modules\/contrib\/media\/js\/media.core.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"profiles\/openatrium\/modules\/contrib\/media\/js\/util\/json2.js":1,"profiles\/openatrium\/modules\/contrib\/media\/js\/util\/ba-debug.min.js":1,"misc\/ajax.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/back_to_top\/js\/back_to_top.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"profiles\/openatrium\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"sites\/all\/modules\/contrib\/om_maximenu\/js\/om_maximenu.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_magic\/panopoly-magic.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"profiles\/openatrium\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/openatrium\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/openatrium\/modules\/contrib\/dhtml_menu\/dhtml_menu.js":1,"misc\/progress.js":1,"profiles\/openatrium\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/custom\/ipp_customizations\/js\/ipp_customizations.js":1,"sites\/all\/modules\/custom\/ipp_customizations\/js\/jquery.tablesorter.js":1,"sites\/all\/libraries\/jquery.expander\/jquery.expander.js":1,"sites\/all\/modules\/contrib\/jquery_expander\/js\/jquery_expander.js":1,"profiles\/openatrium\/modules\/contrib\/views\/js\/base.js":1,"0":1,"1":1,"profiles\/openatrium\/modules\/contrib\/views\/js\/ajax_view.js":1,"profiles\/openatrium\/modules\/contrib\/views_load_more\/views_load_more.js":1,"profiles\/openatrium\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"profiles\/openatrium\/modules\/contrib\/media\/js\/media.popups.js":1,"profiles\/openatrium\/modules\/apps\/oa_files\/js\/upload.js":1,"profiles\/openatrium\/modules\/apps\/oa_notifications\/oa_notifications.js":1,"profiles\/openatrium\/modules\/apps\/oa_toolbar\/js\/oa-toolbar.js":1,"profiles\/openatrium\/themes\/radix\/assets\/javascripts\/modernizr.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/jquery-jvectormap.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/jquery-mousewheel.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/jvectormap.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/abstract-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/abstract-canvas-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/abstract-shape-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/svg-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/svg-group-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/svg-canvas-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/svg-shape-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/svg-path-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/svg-circle-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/vml-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/vml-group-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/vml-canvas-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/vml-shape-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/vml-path-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/vml-circle-element.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/vector-canvas.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/simple-scale.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/numeric-scale.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/ordinal-scale.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/color-scale.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/data-series.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/proj.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/lib\/world-map.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/tests\/assets\/jquery-jvectormap-world-mill-en.js":1,"sites\/all\/modules\/custom\/geonav\/jvector\/tests\/assets\/jquery-jvectormap-custom.js":1,"sites\/all\/modules\/custom\/geonav\/geonav.js":1,"profiles\/openatrium\/modules\/contrib\/chosen\/chosen.js":1,"profiles\/openatrium\/themes\/radix\/assets\/javascripts\/radix-script.js":1,"sites\/all\/themes\/unify\/assets\/javascripts\/script.js":1,"sites\/all\/themes\/unify\/assets\/javascripts\/jquery.tinyscrollbar.js":1,"sites\/all\/themes\/unify\/assets\/javascripts\/toggle-reply-visibility.js":1,"profiles\/openatrium\/themes\/radix\/assets\/javascripts\/radix-progress.js":1,"profiles\/openatrium\/themes\/oa_radix\/assets\/javascripts\/oa-radix-modal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"profiles\/openatrium\/modules\/contrib\/chosen\/css\/chosen-drupal.css":1,"profiles\/openatrium\/modules\/contrib\/media\/css\/media.css":1,"sites\/all\/modules\/contrib\/back_to_top\/css\/back_to_top.css":1,"modules\/comment\/comment.css":1,"profiles\/openatrium\/modules\/contrib\/contextual_tabs\/contextual_tabs.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/ipp_survey\/ipp_survey.css":1,"modules\/node\/node.css":1,"profiles\/openatrium\/modules\/apps\/oa_appearance\/oa_appearance.css":1,"profiles\/openatrium\/modules\/contrib\/oa_core\/css\/oa_core.css":1,"profiles\/openatrium\/modules\/contrib\/oa_core\/modules\/oa_diff\/oa_diff.css":1,"profiles\/openatrium\/modules\/apps\/oa_events\/oa-events.css":1,"profiles\/openatrium\/modules\/apps\/oa_favorites\/oa_favorites.css":1,"sites\/all\/modules\/contrib\/oa_folders\/oa_folders.css":1,"profiles\/openatrium\/modules\/apps\/oa_media\/oa_media.css":1,"profiles\/openatrium\/modules\/apps\/oa_notifications\/oa_notifications.css":1,"profiles\/openatrium\/modules\/apps\/oa_related\/oa_related.css":1,"profiles\/openatrium\/modules\/contrib\/oa_core\/modules\/oa_river\/oa_river.css":1,"profiles\/openatrium\/modules\/apps\/oa_subspaces\/oa-subspaces.css":1,"profiles\/openatrium\/modules\/contrib\/oa_core\/modules\/oa_teams\/oa_teams.css":1,"profiles\/openatrium\/modules\/apps\/oa_toolbar\/css\/oa_toolbar.css":1,"profiles\/openatrium\/modules\/contrib\/oa_core\/modules\/oa_widgets\/oa_widgets.css":1,"profiles\/openatrium\/modules\/apps\/oa_wiki\/oa_wiki.css":1,"sites\/all\/modules\/contrib\/om_maximenu\/css\/om_maximenu.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_admin\/panopoly-admin-navbar.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_magic\/css\/panopoly-magic.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_theme\/css\/panopoly-layouts.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_wysiwyg\/panopoly-wysiwyg.css":1,"profiles\/openatrium\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"sites\/all\/modules\/contrib\/rpx\/rpx_widgets.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/openatrium\/modules\/contrib\/views\/css\/views.css":1,"profiles\/openatrium\/modules\/contrib\/caption_filter\/caption-filter.css":1,"sites\/all\/libraries\/colorbox\/example1\/colorbox.css":1,"profiles\/openatrium\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/openatrium\/modules\/contrib\/dhtml_menu\/dhtml_menu.css":1,"sites\/all\/modules\/features\/ipp_content\/topic.css":1,"profiles\/openatrium\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"profiles\/openatrium\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/contrib\/om_maximenu\/skin\/simple\/simple.css":1,"sites\/all\/modules\/custom\/geonav\/jvector\/jquery-jvectormap.css":1,"public:\/\/ctools\/css\/a52e435287606846dff0bf5be48a78ba.css":1,"profiles\/openatrium\/themes\/oa_radix\/assets\/stylesheets\/screen.css":1,"profiles\/openatrium\/themes\/oa_radix\/assets\/stylesheets\/font-awesome.min.css":1,"profiles\/openatrium\/themes\/oa_radix\/assets\/stylesheets\/font-awesome32.min.css":1,"sites\/all\/themes\/unify\/assets\/stylesheets\/sub-screen.css":1,"sites\/all\/themes\/unify\/assets\/stylesheets\/custom.css":1,"sites\/all\/themes\/unify\/assets\/stylesheets\/print.css":1,"sites\/all\/themes\/unify\/assets\/stylesheets\/flag.css":1,"profiles\/openatrium\/themes\/radix\/assets\/stylesheets\/ie.css":1,"profiles\/openatrium\/themes\/oa_radix\/assets\/stylesheets\/ie7.css":1,"profiles\/openatrium\/themes\/oa_radix\/assets\/stylesheets\/ie8.css":1,"sites\/all\/themes\/unify\/assets\/stylesheets\/ie7.css":1,"sites\/all\/themes\/unify\/assets\/stylesheets\/ie8.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1,"https:\/\/fonts.googleapis.com\/css?family=Open+Sans:regular|Source+Sans+Pro:600\u0026subset=latin":1}},"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_prevent_on_mobile":true,"back_to_top_prevent_in_admin":true,"back_to_top_button_type":"image"},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"98%","maxHeight":"95%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"dhtmlMenu":{"nav":"bullet","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"100"},"effects":{"siblings":"none","children":"none","remember":"remember"},"filter":{"type":"whitelist","list":{"og-menu-single":"og-menu-single","devel":0,"main-menu":0,"management":0,"navigation":0,"shortcut-set-1":0,"user-menu":0}}},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.innovationpolicyplatform.org\/profiles\/openatrium\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.innovationpolicyplatform.org\/profiles\/openatrium\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E","modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.84999999999999998,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.innovationpolicyplatform.org\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":550,"height":450},"modalOptions":{"opacity":0.84999999999999998,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.innovationpolicyplatform.org\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.80000000000000004,"height":0.80000000000000004},"modalOptions":{"opacity":0.84999999999999998,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.innovationpolicyplatform.org\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"panopoly_magic":{"pane_add_preview_mode":"disabled"},"ipp_customizations":{"throbber":"profiles\/openatrium\/modules\/contrib\/ctools\/images\/status-active.gif","user":0},"jqueryExpander":[{"collapseTimer":"","expandPrefix":"...","expandText":"Expand \u00bb","slicePoint":500,"userCollapsePrefix":"","userCollapseText":"Collapse"},{"collapseTimer":"","expandPrefix":"...","expandText":"Expand \u00bb","slicePoint":500,"userCollapsePrefix":"","userCollapseText":"Collapse"},{"collapseTimer":"","expandPrefix":"...","expandText":"Expand \u00bb","slicePoint":500,"userCollapsePrefix":"","userCollapseText":"Collapse"},{"collapseTimer":"","expandPrefix":"...","expandText":"Expand \u00bb","slicePoint":500,"userCollapsePrefix":"","userCollapseText":"Collapse"},{"collapseTimer":"","expandPrefix":"...","expandText":"Expand \u00bb","slicePoint":500,"userCollapsePrefix":"","userCollapseText":"Collapse"}],"chosen":{"selector":"select[multiple=\u0022multiple\u0022]","minimum_single":0,"minimum_multiple":0,"minimum_width":180,"options":{"allow_single_deselect":false,"disable_search":false,"disable_search_threshold":0,"search_contains":true,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","inherit_select_classes":true}},"urlIsAjaxTrusted":{"\/node\/12502\/17916%2B18184%2B18490%2B18687%2B17612%2B17822%2B17921%2B18139%2B18215%2B18247%2B18433%2B18464%2B18631%2B18366":true,"\/views\/ajax":true,"\/node\/12502\/17993%2B18303":true,"\/advanced-search":true,"\/communities":true,"\/content\/patent-data-patent-valuation-methods?topic-filters=12279\u0026page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:50ec31a93763769f47fcfdb1b20b0c3b":{"view_name":"contentpage_related_resources","view_display_id":"default","view_args":"17916+18184+18490+18687+17612+17822+17921+18139+18215+18247+18433+18464+18631+18366","view_path":"node\/12502","view_base_path":"node\/12502","view_dom_id":"50ec31a93763769f47fcfdb1b20b0c3b","pager_element":"235"},"views_dom_id:db3e946b8f849ad4e0086b27737d64f4":{"view_name":"contentpage_related_resources","view_display_id":"block","view_args":"17993+18303","view_path":"node\/12502","view_base_path":"node\/12502","view_dom_id":"db3e946b8f849ad4e0086b27737d64f4","pager_element":"235"},"views_dom_id:ffbd704f3e2f2783e2ee23a3389a8b11":{"view_name":"contentpage_related_resources","view_display_id":"default","view_args":"17916+18184+18490+18687+17612+17822+17921+18139+18215+18247+18433+18464+18631+18366","view_path":"node\/12502","view_base_path":"node\/12502","view_dom_id":"ffbd704f3e2f2783e2ee23a3389a8b11","pager_element":"235"},"views_dom_id:a284a8180187d8c0e87c10f2468aa844":{"view_name":"contentpage_related_resources","view_display_id":"block","view_args":"17993+18303","view_path":"node\/12502","view_base_path":"node\/12502","view_dom_id":"a284a8180187d8c0e87c10f2468aa844","pager_element":"235"},"views_dom_id:60952865261bd5201f4451578d77ab15":{"view_name":"ipp_cop_list","view_display_id":"list_by_type","view_args":"","view_path":"node\/12502","view_base_path":"communities","view_dom_id":"60952865261bd5201f4451578d77ab15","pager_element":0}}},"geonav":{"basepath":"\/","ippcountries":{"7732":"Europe","7733":"AL","21115":"AT","7735":"BY","7736":"BE","7737":"BA","7738":"BG","7739":"HR","13082":"CY","7740":"CZ","7741":"DK","7742":"EE","7743":"FI","7761":"MK","7744":"FR","7813":"GE","7745":"DE","7746":"GR","7747":"HU","7748":"IS","7749":"IE","7750":"IT","7751":"_1","7752":"LV","7753":"LT","7754":"LU","7755":"Malta","7762":"MD","7756":"ME","7757":"NL","7758":"NO","7759":"PL","7760":"PT","7763":"RO","7764":"Russian Federation","7766":"RS","7767":"SK","7768":"SI","7769":"ES","7770":"SE","7771":"CH","7772":"TR","7774":"UA","7773":"GB","7775":"LATIN","7776":"ANT","7777":"AR","7778":"BS","7779":"Barbados","7780":"BZ","7781":"BO","7782":"BR","7783":"CL","7784":"CO","7785":"CR","7787":"DO","7788":"EC","7789":"SV","7790":"Grenada","7791":"GT","7792":"GY","7793":"HT","7794":"HN","7795":"JM","7796":"MX","7797":"NI","7798":"PA","7799":"PY","7800":"PE","7801":"Kitts","7802":"Lucia","7803":"Vincent","7804":"SR","7805":"TT","7806":"UY","7807":"VE","7808":"NorthAfrica ","7809":"DZ","7810":"Bahrain","7812":"EG","7814":"IQ","7815":"IL","7816":"JO","7817":"KW","7818":"LB","7819":"LY","7820":"MA","7821":"OM","7823":"SA","7824":"SY","7825":"TN","7827":"YE","7828":"NorthAmerica","7831":"US","7829":"CA","7832":"Oceania","7839":"NZ","7842":"Samoa","7834":"FJ","7833":"AU","7837":"Micronesia","7844":"Tonga","7846":"VU","7847":"CentralAsia","7865":"MN","7866":"MM","7867":"NP","7868":"PK","7863":"MY","7862":"LA","7859":"JP","7858":"IR","7860":"KZ","7870":"KR","7861":"KG","7869":"PH","7871":"Singapore","7878":"VN","7877":"UZ","7873":"TJ","7872":"LK","7874":"TH","7875":"TL","7876":"TM","7857":"ID","7856":"IN","7852":"BT","7854":"KH","8169":"TW","7855":"CN","7851":"BD","7850":"AZ","7849":"AM","7848":"AF","7879":"SubSaharan","7915":"SN","7917":"SL","7920":"SS","7919":"ZA","7913":"RW","7910":"NA","7911":"NE","7912":"NG","7921":"SD","7923":"TG","7925":"TZ","7924":"UG","7926":"ZM","7927":"ZW","7908":"Mauritius","7907":"MR","7888":"TD","7887":"CF","7891":"Coted","7892":"DJ","7886":"CapeVerde","7885":"CM","7881":"BJ","7880":"AO","7882":"BW","7883":"BF","7884":"BI","7894":"ER","7903":"LR","7902":"LS","7904":"MG","7905":"MW","7906":"ML","7901":"KE","7896":"GA","7895":"ET","7898":"GH"},"ipptids":[7732,7733,21115,7735,7736,7737,7738,7739,13082,7740,7741,7742,7743,7761,7744,7813,7745,7746,7747,7748,7749,7750,7751,7752,7753,7754,7755,7762,7756,7757,7758,7759,7760,7763,7764,7766,7767,7768,7769,7770,7771,7772,7774,7773,7775,7776,7777,7778,7779,7780,7781,7782,7783,7784,7785,7787,7788,7789,7790,7791,7792,7793,7794,7795,7796,7797,7798,7799,7800,7801,7802,7803,7804,7805,7806,7807,7808,7809,7810,7812,7814,7815,7816,7817,7818,7819,7820,7821,7823,7824,7825,7827,7828,7831,7829,7832,7839,7842,7834,7833,7837,7844,7846,7847,7865,7866,7867,7868,7863,7862,7859,7858,7860,7870,7861,7869,7871,7878,7877,7873,7872,7874,7875,7876,7857,7856,7852,7854,8169,7855,7851,7850,7849,7848,7879,7915,7917,7920,7919,7913,7910,7911,7912,7921,7923,7925,7924,7926,7927,7908,7907,7888,7887,7891,7892,7886,7885,7881,7880,7882,7883,7884,7894,7903,7902,7904,7905,7906,7901,7896,7895,7898]},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"media":{"browserUrl":"\/media\/browser?render=media-popup","styleSelectorUrl":"\/media\/-media_id-\/format-form?render=media-popup","dialogOptions":{"dialogclass":"media-wrapper","modal":true,"draggable":false,"resizable":false,"minwidth":500,"width":670,"height":280,"position":"center","overlay":{"backgroundcolor":"#000000","opacity":0.40000000000000002},"zindex":10000}},"oa_files_media_options":{"global":{"types":{"document":"document","image":"image","video":"video"},"enabledPlugins":{"media_default--media_browser_1":"media_default--media_browser_1","media_default--media_browser_my_files":"media_default--media_browser_my_files","media_internet":"media_internet","upload":"upload"},"schemes":{"private":"private","public":"public","vimeo":"vimeo","youtube":"youtube"},"file_directory":"","file_extensions":"jpg jpeg gif png txt doc docx xls xlsx pdf ppt pptx pps ppsx odt ods odp mp3 mov mp4 m4a m4v mpeg avi ogg oga ogv weba webp webm zip tgz gz key dotx","max_filesize":0,"uri_scheme":"private","multiselect":true}},"oa_files_upload_url":"\/oa-files\/upload\/multi","oa_toolbar":{"mouseover":1},"ogContext":{"groupType":"node","gid":"877661"}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]>
+   <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+   </script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-12502 node-type-contentpage contentpage-default og-context og-context-node og-context-node-877661 region-content panel-layout-radix_bartlett_flipped panel-region-contentcolumn1 panel-region-contentcolumn2 panel-region-contentheader panel-region-sidebar" >
+  <div id="skip-link">
+    <a href="#main" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<header id="header" class="header" role="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3">
+                  <a href="../../index/index.html" title="Home" rel="home" id="logo" class="pull-left brand">
+            <img src="../../sites/all/themes/unify/logo/index.png">
+          </a>
+              </div>
+      <div class="col-sm-5">
+          <div class="region region-branding">
+    <div id="block-views-exp-core-search-page" class="block block-views header-search">
+
+      
+  <div class="content">
+    <form action="https://www.innovationpolicyplatform.org/advanced-search" method="get" id="views-exposed-form-core-search-page-d38fdc4935c3048bd0a57e4b4a1711b4" accept-charset="UTF-8" role="form"><div><div class="views-exposed-form ">
+    <div class="views-exposed-widgets clearfix ">
+          <div id="edit-publisher-wrapper" class="views-exposed-widget views-widget-filter-publisher">
+                  <label for="edit-publisher">
+            Publisher          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-publisher form-group">
+ <select class="form-control form-select" id="edit-publisher" name="publisher"><option value="" selected="selected">All publishers</option><option value="World Bank">World Bank</option><option value="OECD">OECD</option><option value="European Commission">European Commission</option><option value="Other">Other</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-query-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-query">
+            Text search          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-query form-group">
+ <input class="form-control form-text" type="text" id="edit-query" name="query" value="" size="30" maxlength="128" />
+</div>
+        </div>
+              </div>
+              <div class="views-exposed-widget views-widget-sort-by">
+        <div class="form-item form-type-select form-item-sort-by form-group">
+  <label for="edit-sort-by">Sort by </label>
+ <select class="form-control form-select" id="edit-sort-by" name="sort_by"><option value="search_api_relevance" selected="selected">Relevance</option><option value="changed">Post date</option></select>
+</div>
+      </div>
+      <div class="views-exposed-widget views-widget-sort-order">
+        <div class="form-item form-type-select form-item-sort-order form-group">
+  <label for="edit-sort-order">Order </label>
+ <select class="form-control form-select" id="edit-sort-order" name="sort_order"><option value="ASC">Asc</option><option value="DESC" selected="selected">Desc</option></select>
+</div>
+      </div>
+                <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-core-search" name="" value="Apply" class="form-submit btn  " />    </div>
+          <div class="views-exposed-widget views-reset-button">
+        <input type="submit" id="edit-reset" name="op" value="Reset" class="form-submit btn btn-default" />      </div>
+      </div>
+</div>
+</div></form>  </div>
+</div>
+  </div>
+      </div>
+      <div class="col-sm-4">
+          <div class="region region-header">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="../../about/index.html">About</a></li>
+<li class="leaf"><a href="../../news/index.html" title="">News</a></li>
+<li class="leaf"><a href="../../contact/index.html">Contact</a></li>
+<li class="last leaf"><a href="../video-library/index.html">Videos</a></li>
+</ul>  </div>
+</div>
+<div id="block-ipp-customizations-1" class="block block-ipp-customizations">
+
+      
+  <div class="content">
+    <div class="my-account"><a href="/user/register?destination=node/12502%3Ftopic-filters%3D12279%26page%3D0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C1">SIGN UP</a></div><div class="my-account"><a href="/user/login?destination=node/12502%3Ftopic-filters%3D12279%26page%3D0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C0%252C1">SIGN IN</a></div>  </div>
+</div>
+  </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div id="menu-region-container">
+     <div class="region region-menu">
+    <div id="block-om-maximenu-om-maximenu-1" class="block block-om-maximenu">
+
+      
+  <div class="content">
+     
+
+  <div id="om-maximenu-main-menu" class="om-maximenu om-maximenu-simple om-maximenu-style-normal om-maximenu-block om-maximenu-row om-maximenu-block-down code-om-u1-550288713">     
+            
+
+<div id="om-menu-main-menu-ul-wrapper" class="om-menu-ul-wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <ul id="om-menu-main-menu" class="nav nav-tabs nav-justified">
+                                  
+   
+  <li id="om-leaf-om-u1-550288713-2" class=" om-leaf first leaf-browse-by-topic">
+    <span class="close"></span>
+    <span class="om-link  link-browse-by-topic" >Browse by Topic</span>  </li>
+  
+                                  
+   
+  <li id="om-leaf-om-u1-550288713-1" class=" om-leaf leaf-select-a-country">
+    <span class="close"></span>
+    <span class="om-link  link-select-a-country" >Select a Country</span>  </li>
+  
+                                  
+   
+  <li id="om-leaf-om-u1-550288713-4" class=" om-leaf leaf-statistics">
+    <span class="close"></span>
+    <span class="om-link  link-statistics" >Statistics</span>  </li>
+  
+                                  
+   
+  <li id="om-leaf-om-u1-550288713-5" class=" om-leaf last leaf-communities">
+    <span class="close"></span>
+    <span class="om-link  link-communities" >Communities</span>  </li>
+  
+                  </ul><!-- /.om-menu -->
+      </div>
+    </div>
+  </div>
+</div><!-- /.om-menu-ul-wrapper -->
+ 
+<div class="om-maximenu-tabbed-content om-maximenu-tabbed-hidden">
+  <div class="om-maximenu-tabbed-content-inner container">
+    <div class="row">
+      <div class="col-sm-12">
+                                        <div id="om-tabbed-content-om-u1-550288713-2" class="om-tabbed-content om-tabbed-content-hide">
+              <div class="om-tabbed-content-inner">
+                 
+
+<div class="block block-ipp_core block-ipp_core-id-browse-topic first last">           
+  <h3 class="title">Browse by topic</h3>    <div class="content"><div class="view view-Topic-Group view-id-Topic Group view-display-id-block_1 view-dom-id-6d908692b6178beeaa0cbf630d551360">
+  <div class="view-content">
+        <div class="views-row basics">
+      <div style="border-bottom:6px solid LightBlue;" class="topic-group-name">
+        <h3>Basics</h3>
+      </div>
+      <div class="topic-group-list-wrapper">
+        <ul class="topic-group-list">
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../innovation-definitions-and-fundamentals/index.html">Innovation Definitions and Fundamentals</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../measurement-policy/index.html">Measurement for Policy</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../public-policy-and-governance/index.html">Public Policy and Governance</a>              </span>
+            </div>
+          </li>
+                </ul>
+      </div>
+    </div>
+        <div class="views-row places">
+      <div style="border-bottom:6px solid LightGreen;" class="topic-group-name">
+        <h3>Places</h3>
+      </div>
+      <div class="topic-group-list-wrapper">
+        <ul class="topic-group-list">
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../innovation-firms/index.html">Innovation in Firms</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../innovative-entrepreneurship/index.html">Innovative Entrepreneurship</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../public-sector-innovation/index.html">Public Sector Innovation</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../universities-and-public-research-institutes/index.html">Universities and Public Research Institutes</a>              </span>
+            </div>
+          </li>
+                </ul>
+      </div>
+    </div>
+        <div class="views-row ecosystem">
+      <div style="border-bottom:6px solid Gold;" class="topic-group-name">
+        <h3>Ecosystem</h3>
+      </div>
+      <div class="topic-group-list-wrapper">
+        <ul class="topic-group-list">
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../financing-innovation/index.html">Financing Innovation</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../intellectual-property-rights/index.html">Intellectual Property Rights</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../markets-competition-and-standards/index.html">Markets, Competition and Standards</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../skills-innovation/index.html">Skills for Innovation</a>              </span>
+            </div>
+          </li>
+                </ul>
+      </div>
+    </div>
+        <div class="views-row linkages">
+      <div style="border-bottom:6px solid Orange;" class="topic-group-name">
+        <h3>Linkages</h3>
+      </div>
+      <div class="topic-group-list-wrapper">
+        <ul class="topic-group-list">
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../innovation-networks-and-clusters/index.html">Innovation Networks and Clusters</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../international-linkages/index.html">International Linkages</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../technology-transfer-and-commercialisation/index.html">Technology Transfer and Commercialisation</a>              </span>
+            </div>
+          </li>
+                </ul>
+      </div>
+    </div>
+        <div class="views-row themes">
+      <div style="border-bottom:6px solid #800020;" class="topic-group-name">
+        <h3>Themes</h3>
+      </div>
+      <div class="topic-group-list-wrapper">
+        <ul class="topic-group-list">
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../agriculture/index.html">Agriculture</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../inclusive-innovation-development/index.html">Inclusive Innovation for Development</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../open-science/index.html">Open Science</a>              </span>
+            </div>
+          </li>
+                  <li class="topic-group-det">
+            <div class="views-field views-field-ipp-user-hastopic-use">
+              <span class="field-content">
+                <a href="../green-innovation/index.html">Green Innovation</a>              </span>
+            </div>
+          </li>
+                </ul>
+      </div>
+    </div>
+      </div>
+</div>
+
+</div>
+  </div><!-- /.block -->
+
+
+
+
+
+                <div class="om-clearfix"></div>
+              </div><!-- /.om-tabbed-content-inner -->
+            </div><!-- /.om-tabbed-content -->
+                                                  <div id="om-tabbed-content-om-u1-550288713-1" class="om-tabbed-content om-tabbed-content-hide">
+              <div class="om-tabbed-content-inner">
+                 
+
+<div class="block block-block block-block-id-3 first">           
+      <div class="content"><p>&nbsp;</p></div>
+  </div><!-- /.block -->
+
+
+
+
+
+ 
+
+<div class="block block-geonav block-geonav-id-geonav last">           
+  <h3 class="title">Geographical Navigation</h3>    <div class="content"><div id='select-a-country'>
+      <div class='form-item' id='search_box-wrapper'><input type='text' maxlength='128'  id='search_box' size='60' class='form-text' placeholder=' Search a Country' /></div>
+          <div id='scroll-area'>
+            <div class='scrollbar'><div class='track'><div class='thumb'><div class='end'></div></div></div></div>
+                <div class='viewport'>
+                  <div class='overview'>
+                    <ul><li><a class="country-highlight" href="../europe/index.html">Europe</a></li><li><a href="../albania/index.html">Albania</a></li><li><a href="../austria/index.html">Austria</a></li><li><a href="../belarus/index.html">Belarus</a></li><li><a href="../belgium/index.html">Belgium</a></li><li><a href="../bosnia-and-herzegovina/index.html">Bosnia and Herzegovina</a></li><li><a href="../bulgaria/index.html">Bulgaria</a></li><li><a href="../croatia/index.html">Croatia</a></li><li><a href="../cyprus/index.html">Cyprus</a></li><li><a href="../czech-republic/index.html">Czech Republic</a></li><li><a href="../denmark/index.html">Denmark</a></li><li><a href="../estonia/index.html">Estonia</a></li><li><a href="../european-union/index.html">European Union</a></li><li><a href="../finland/index.html">Finland</a></li><li><a href="../former-yugoslav-republic-macedonia/index.html">Former Yugoslav Republic of Macedonia</a></li><li><a href="../france/index.html">France</a></li><li><a href="../georgia/index.html">Georgia</a></li><li><a href="../germany/index.html">Germany</a></li><li><a href="../greece/index.html">Greece</a></li><li><a href="../hungary/index.html">Hungary</a></li><li><a href="../iceland/index.html">Iceland</a></li><li><a href="../ireland/index.html">Ireland</a></li><li><a href="../italy/index.html">Italy</a></li><li><a href="../kosovo/index.html">Kosovo</a></li><li><a href="../latvia/index.html">Latvia</a></li><li><a href="../lithuania/index.html">Lithuania</a></li><li><a href="../luxembourg/index.html">Luxembourg</a></li><li><a href="../malta/index.html">Malta</a></li><li><a href="../moldova/index.html">Moldova</a></li><li><a href="../montenegro/index.html">Montenegro</a></li><li><a href="../netherlands/index.html">Netherlands</a></li><li><a href="../norway/index.html">Norway</a></li><li><a href="../poland/index.html">Poland</a></li><li><a href="../portugal/index.html">Portugal</a></li><li><a href="../romania/index.html">Romania</a></li><li><a href="../russian-federation/index.html">Russian Federation</a></li><li><a href="../serbia/index.html">Serbia</a></li><li><a href="../slovak-republic/index.html">Slovak Republic</a></li><li><a href="../slovenia/index.html">Slovenia</a></li><li><a href="../spain/index.html">Spain</a></li><li><a href="../sweden/index.html">Sweden</a></li><li><a href="../switzerland/index.html">Switzerland</a></li><li><a href="../turkey/index.html">Turkey</a></li><li><a href="../ukraine/index.html">Ukraine</a></li><li><a href="../united-kingdom/index.html">United Kingdom</a></li><li><a class="country-highlight" href="../latin-america-and-caribbean/index.html">Latin America and the Caribbean</a></li><li><a href="../antigua-and-barbuda/index.html">Antigua and Barbuda</a></li><li><a href="../argentina/index.html">Argentina</a></li><li><a href="../bahamas/index.html">Bahamas</a></li><li><a href="../barbados/index.html">Barbados</a></li><li><a href="../belize/index.html">Belize</a></li><li><a href="../bolivia/index.html">Bolivia</a></li><li><a href="../brazil/index.html">Brazil</a></li><li><a href="../chile/index.html">Chile</a></li><li><a href="../colombia/index.html">Colombia</a></li><li><a href="../costa-rica/index.html">Costa Rica</a></li><li><a href="../dominica/index.html">Dominica</a></li><li><a href="../dominican-republic/index.html">Dominican Republic</a></li><li><a href="../ecuador/index.html">Ecuador</a></li><li><a href="../el-salvador/index.html">El Salvador</a></li><li><a href="../grenada/index.html">Grenada</a></li><li><a href="../guatemala/index.html">Guatemala</a></li><li><a href="../guyana/index.html">Guyana</a></li><li><a href="../haiti/index.html">Haiti</a></li><li><a href="../honduras/index.html">Honduras</a></li><li><a href="../jamaica/index.html">Jamaica</a></li><li><a href="../mexico/index.html">Mexico</a></li><li><a href="../nicaragua/index.html">Nicaragua</a></li><li><a href="../panama/index.html">Panama</a></li><li><a href="../paraguay/index.html">Paraguay</a></li><li><a href="../peru/index.html">Peru</a></li><li><a href="../saint-kitts-and-nevis/index.html">Saint Kitts and Nevis</a></li><li><a href="../saint-lucia/index.html">Saint Lucia</a></li><li><a href="../saint-vincent-and-grenadines/index.html">Saint Vincent and the Grenadines</a></li><li><a href="../suriname/index.html">Suriname</a></li><li><a href="../trinidad-and-tobago/index.html">Trinidad and Tobago</a></li><li><a href="../uruguay/index.html">Uruguay</a></li><li><a href="../venezuela/index.html">Venezuela</a></li><li><a class="country-highlight" href="../north-africa-and-middle-east/index.html">North Africa and Middle East</a></li><li><a href="../algeria/index.html">Algeria</a></li><li><a href="../bahrain/index.html">Bahrain</a></li><li><a href="../egypt/index.html">Egypt</a></li><li><a href="../iraq/index.html">Iraq</a></li><li><a href="../israel/index.html">Israel</a></li><li><a href="../jordan/index.html">Jordan</a></li><li><a href="../kuwait/index.html">Kuwait</a></li><li><a href="../lebanon/index.html">Lebanon</a></li><li><a href="../libya/index.html">Libya</a></li><li><a href="../morocco/index.html">Morocco</a></li><li><a href="../oman/index.html">Oman</a></li><li><a href="../saudi-arabia/index.html">Saudi Arabia</a></li><li><a href="../syrian-arab-republic/index.html">Syrian Arab Republic</a></li><li><a href="../tunisia/index.html">Tunisia</a></li><li><a href="../yemen/index.html">Yemen</a></li><li><a href="../west-bank-and-gaza/index.html">West Bank and Gaza</a></li><li><a class="country-highlight" href="../north-america/index.html">North America</a></li><li><a href="../united-states/index.html">United States</a></li><li><a href="../canada/index.html">Canada</a></li><li><a class="country-highlight" href="../oceania/index.html">Oceania</a></li><li><a href="../new-zealand/index.html">New Zealand</a></li><li><a href="../samoa/index.html">Samoa</a></li><li><a href="../fiji/index.html">Fiji</a></li><li><a href="../australia/index.html">Australia</a></li><li><a href="../micronesia/index.html">Micronesia</a></li><li><a href="../tonga/index.html">Tonga</a></li><li><a href="../vanuatu/index.html">Vanuatu</a></li><li><a class="country-highlight" href="../south-east-and-central-asia/index.html">South, East and Central Asia</a></li><li><a href="../mongolia/index.html">Mongolia</a></li><li><a href="../myanmar/index.html">Myanmar</a></li><li><a href="../nepal/index.html">Nepal</a></li><li><a href="../pakistan/index.html">Pakistan</a></li><li><a href="../malaysia/index.html">Malaysia</a></li><li><a href="../lao-peoples-democratic-republic/index.html">Lao People's Democratic Republic</a></li><li><a href="../japan/index.html">Japan</a></li><li><a href="../iran/index.html">Iran</a></li><li><a href="../kazakhstan/index.html">Kazakhstan</a></li><li><a href="../korea/index.html">Korea</a></li><li><a href="../kyrgyz-republic/index.html">Kyrgyz Republic</a></li><li><a href="../philippines/index.html">Philippines</a></li><li><a href="../singapore/index.html">Singapore</a></li><li><a href="../vietnam/index.html">Vietnam</a></li><li><a href="../uzbekistan/index.html">Uzbekistan</a></li><li><a href="../tajikistan/index.html">Tajikistan</a></li><li><a href="../sri-lanka/index.html">Sri Lanka</a></li><li><a href="../thailand/index.html">Thailand</a></li><li><a href="../timor-leste/index.html">Timor-Leste</a></li><li><a href="../turkmenistan/index.html">Turkmenistan</a></li><li><a href="../indonesia/index.html">Indonesia</a></li><li><a href="../india/index.html">India</a></li><li><a href="../bhutan/index.html">Bhutan</a></li><li><a href="../cambodia/index.html">Cambodia</a></li><li><a href="../chinese-taipei/index.html">Chinese Taipei</a></li><li><a href="../china/index.html">China</a></li><li><a href="../bangladesh/index.html">Bangladesh</a></li><li><a href="../azerbaijan/index.html">Azerbaijan</a></li><li><a href="../armenia/index.html">Armenia</a></li><li><a href="../afghanistan/index.html">Afghanistan</a></li><li><a class="country-highlight" href="../sub-saharan-africa/index.html">Sub-Saharan Africa</a></li><li><a href="../senegal/index.html">Senegal</a></li><li><a href="../sierra-leone/index.html">Sierra Leone</a></li><li><a href="../south-sudan/index.html">South Sudan</a></li><li><a href="../south-africa/index.html">South Africa</a></li><li><a href="../rwanda/index.html">Rwanda</a></li><li><a href="../namibia/index.html">Namibia</a></li><li><a href="../niger/index.html">Niger</a></li><li><a href="../nigeria/index.html">Nigeria</a></li><li><a href="../republic-congo/index.html">Republic of the Congo</a></li><li><a href="../sudan/index.html">Sudan</a></li><li><a href="../togo/index.html">Togo</a></li><li><a href="../tanzania/index.html">Tanzania</a></li><li><a href="../uganda/index.html">Uganda</a></li><li><a href="../zambia/index.html">Zambia</a></li><li><a href="../zimbabwe/index.html">Zimbabwe</a></li><li><a href="../mauritius/index.html">Mauritius</a></li><li><a href="../mauritania/index.html">Mauritania</a></li><li><a href="../chad/index.html">Chad</a></li><li><a href="../central-african-republic/index.html">Central African Republic</a></li><li><a href="../cote-divoire/index.html">Cote d'Ivoire</a></li><li><a href="../djibouti/index.html">Djibouti</a></li><li><a href="../democratic-republic-congo/index.html">Democratic Republic of the Congo</a></li><li><a href="../cape-verde/index.html">Cape Verde</a></li><li><a href="../cameroon/index.html">Cameroon</a></li><li><a href="../benin/index.html">Benin</a></li><li><a href="../angola/index.html">Angola</a></li><li><a href="../botswana/index.html">Botswana</a></li><li><a href="../burkina-faso/index.html">Burkina Faso</a></li><li><a href="../burundi/index.html">Burundi</a></li><li><a href="../eritrea/index.html">Eritrea</a></li><li><a href="../liberia/index.html">Liberia</a></li><li><a href="../lesotho/index.html">Lesotho</a></li><li><a href="../madagascar/index.html">Madagascar</a></li><li><a href="../malawi/index.html">Malawi</a></li><li><a href="../mali/index.html">Mali</a></li><li><a href="../kenya/index.html">Kenya</a></li><li><a href="../gabon/index.html">Gabon</a></li><li><a href="../ethiopia/index.html">Ethiopia</a></li><li><a href="../ghana/index.html">Ghana</a></li></ul></div></div></div></div><div id='body'></div>
+      <div id='popup' style='display:none; border: 1px solid black; background-color: #000; width: 600px; height: 400px;'>
+      <img src=../../sites/all/modules/custom/geonav/popup_close_button/index.png alt='close'>
+      <span id='region' title='Click here to filter with region'></span></div><div id='map1' style='width: 600px; height: 300px'></div></div>
+  </div><!-- /.block -->
+
+
+
+
+
+                <div class="om-clearfix"></div>
+              </div><!-- /.om-tabbed-content-inner -->
+            </div><!-- /.om-tabbed-content -->
+                                                  <div id="om-tabbed-content-om-u1-550288713-4" class="om-tabbed-content om-tabbed-content-hide">
+              <div class="om-tabbed-content-inner">
+                 
+
+<div class="block block-block block-block-id-4 first last">           
+  <h3 class="title">Statistics in the IPP</h3>    <div class="content"><div class="content clearfix">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden clearfix">
+<div class="field-items"><img style="float: left; margin-left: 20px; margin-right: 20px;" src="../../system/files/imce/StatPlanet_image/index.png" alt="" width="409" height="249" />
+<div class="field-item even" style="text-align: left;"><span style="color: #ffffff;"><span style="font-size: medium;">The</span><span style="font-size: medium;">&nbsp;IPP includes a data visualisation tool containing the main available indicators relevant to a country’s innovation performance. Indicators are sourced primarily from the OECD and the World Bank, as well as from other sources of comparable quality.</span></span></div>
+<div class="field-item even" style="text-align: left;"><span style="font-size: medium;">&nbsp;</span></div>
+<div class="field-item even" style="text-align: left;"><span style="color: #ffffff; font-size: medium;">The tool provides the ability to customise the selection of comparator countries and time periods, to draw various types of attractive tables, charts and maps, and to export the data in a variety of formats.</span></div>
+<span style="width: 100%; text-align: center; display: block; padding-top: 25px;"><a class="goto-button" href="../statistics-ipp/index.html">Go to data visualization tool</a></span></div>
+</div>
+</div></div>
+  </div><!-- /.block -->
+
+
+
+
+
+                <div class="om-clearfix"></div>
+              </div><!-- /.om-tabbed-content-inner -->
+            </div><!-- /.om-tabbed-content -->
+                                                  <div id="om-tabbed-content-om-u1-550288713-5" class="om-tabbed-content om-tabbed-content-hide">
+              <div class="om-tabbed-content-inner">
+                 
+
+<div class="block block-ipp_cop_list block-ipp_cop_list-id-ipp_cop_list_filters first">           
+  <h3 class="title">Community tab filter</h3>    <div class="content"><div id="select-a-community"><div class="form-item" id="community_search_box-wrapper"><input type="text" maxlength="128"  id="community_search_box" size="60" class="form-text" placeholder=" Search a community" /></div><div id="community-scroll-area"><div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div><div class="viewport"><div class="overview"><div class="view view-ipp-cop-list view-id-ipp_cop_list view-display-id-list_by_type view-dom-id-60952865261bd5201f4451578d77ab15">
+        
+  
+  
+      <div class="view-content">
+            <h4><a href="../../index/index.html" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Topics</a></h4>
+    <ul>          <li class="">  
+          <a href="../../innovation-policy-platform-community-practice/index.html">Innovation Policy Platform Community of Practice</a>  </li>
+          <li class="">  
+          <a href="../../enhanced-data-access-science-technology-and-innovation/index.html">Enhanced Data Access for Science, Technology and Innovation</a>  </li>
+          <li class="">  
+          <a href="../../ipp-communities-faq/index.html">IPP Communities FAQ  </a>  </li>
+          <li class="">  
+          <a href="../../inclusive-innovation-development/index.html">Inclusive Innovation for Development</a>  </li>
+          <li class="">  
+          <a href="../../introduction-innovation-policy-developing-countries/index.html">Introduction to Innovation Policy for Developing Countries</a>  </li>
+          <li class="">  
+          <a href="../../inclusive-innovation-business-models/index.html">Inclusive Innovation Business Models</a>  </li>
+      </ul>      <h4><a href="../../index/index.html" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Projects</a></h4>
+    <ul>          <li class="">  
+          <a href="../../responsible-innovation-personalised-health-bnct/index.html">Responsible Innovation for Personalised Health (BNCT)</a>  </li>
+          <li class="">  
+          <a href="../../project-bio-production-bioeconomy-oecd-bnct/index.html">Project on Bio-Production for a Bioeconomy (OECD BNCT)</a>  </li>
+          <li class="">  
+          <a href="../../digitalisation-science-technology-and-innovation-synthesis/index.html">The Digitalisation of Science, Technology and Innovation: A Synthesis</a>  </li>
+          <li class="">  
+          <a href="../../digital-skills-data-intensive-science-oecd-project/index.html">Digital Skills for Data-intensive Science - OECD Project</a>  </li>
+          <li class="">  
+          <a href="../../innovation-inclusive-growth-oecd-project/index.html">Innovation for Inclusive Growth - OECD Project</a>  </li>
+          <li class="">  
+          <a href="../../project-impact-assessment-oecd-bnct/index.html">Project on Impact Assessment (OECD BNCT)</a>  </li>
+          <li class="">  
+          <a href="../../digital-science-and-innovation-policy-and-governance-dsip/index.html">Digital Science and Innovation Policy and Governance (DSIP)</a>  </li>
+          <li class="">  
+          <a href="../../transdisciplinary-research-address-global-societal-challenges-oecd-project/index.html">Transdisciplinary Research to Address Global Societal Challenges - OECD Project</a>  </li>
+          <li class="">  
+          <a href="../../assessing-impacts-knowledge-transfer-and-policy-oecd-project/index.html">Assessing the impacts of knowledge transfer and policy - OECD project</a>  </li>
+          <li class="">  
+          <a href="../../project-statistics-indicators-bio-and-nanotechnology-oecd-bnct/index.html">Project on Statistics &amp; Indicators of Bio- and Nanotechnology (OECD BNCT)</a>  </li>
+          <li class="">  
+          <a href="../../research-infrastructure-policy-oecd-project/index.html">Research Infrastructure Policy (OECD Project)</a>  </li>
+          <li class="">  
+          <a href="../../project-better-food-better-health-oecd-bnct/index.html">Project on Better Food for Better Health (OECD BNCT)</a>  </li>
+          <li class="">  
+          <a href="../../stip-monitoring-and-analysis-ec-oecd-project/index.html">STIP Monitoring and Analysis (EC-OECD Project)</a>  </li>
+          <li class="">  
+          <a href="../../digital-innovation-seizing-policy-opportunities/index.html">Digital Innovation: Seizing Policy Opportunities </a>  </li>
+          <li class="">  
+          <a href="../../effective-operation-competitive-funding-systems-oecd-project/index.html">Effective Operation of Competitive Funding Systems (OECD Project)</a>  </li>
+          <li class="">  
+          <a href="../../project-harnessing-convergence-next-production-revolution-oecd-bnct/index.html">Project on Harnessing Convergence for the Next Production Revolution (OECD BNCT)</a>  </li>
+          <li class="">  
+          <a href="../../university-industry-collaboration-new-evidence-and-policy-options/index.html">University-Industry Collaboration: New Evidence and Policy Options</a>  </li>
+          <li class="">  
+          <a href="../../ecoecd-stip-database/index.html">EC/OECD STI Policy Survey 2016</a>  </li>
+          <li class="">  
+          <a href="../../strengthening-sustainability-and-effectiveness-international-research-infrastructures-oecd-project-0/index.html">Strengthening the Sustainability and Effectiveness of International Research Infrastructures - OECD Project</a>  </li>
+          <li class="">  
+          <a href="../../digital-and-open-innovation-project/index.html">Digital and Open Innovation project</a>  </li>
+          <li class="">  
+          <a href="../../astroparticle-physics-international-forum-oecd-project/index.html">Astroparticle Physics International Forum (OECD Project)</a>  </li>
+          <li class="">  
+          <a href="../../oecd-sti-outlook-forward-look/index.html">OECD STI Outlook Forward Look</a>  </li>
+          <li class="">  
+          <a href="../../science-advice-international-co-operation-and-exchange-data-and-information-during-transnational/index.html">Science Advice: International Co-operation and Exchange of Data and Information during Transnational Crisis - OECD Project</a>  </li>
+          <li class="">  
+          <a href="../../project-gene-editing-oecd-bnct/index.html">Project on Gene Editing (OECD BNCT)</a>  </li>
+          <li class="">  
+          <a href="../../oecd-country-reviews-innovation-policy/index.html">OECD Country Reviews of Innovation Policy</a>  </li>
+          <li class="">  
+          <a href="../../open-science-oecd-project/index.html">Open Science - OECD Project</a>  </li>
+          <li class="">  
+          <a href="../../system-innovation-oecd-project/index.html">System Innovation - OECD Project</a>  </li>
+      </ul>      <h4><a href="../../index/index.html" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Events</a></h4>
+    <ul>          <li class="">  
+          <a href="../../workshop-innovation-and-digital-economy-what-role-innovation-policies/index.html">Workshop: “Innovation and the digital economy: What role for innovation policies?”</a>  </li>
+          <li class="">  
+          <a href="../../workshop-towards-effective-science-industry-co-creation/index.html">Workshop: &quot;Towards effective science-industry co-creation&quot;</a>  </li>
+          <li class="">  
+          <a href="../../launch-oecd-reports-digital-innovation-and-effective-knowledge-exchange-innovation/index.html">Digital Innovation and University-Industry Collaboration: New Policy Perspectives</a>  </li>
+          <li class="">  
+          <a href="../../international-conference-innovation-inclusive-growth/index.html">International Conference on Innovation for Inclusive Growth</a>  </li>
+          <li class="">  
+          <a href="../../workshop-innovation-disparities/index.html">Workshop: &quot;Innovation disparities&quot;</a>  </li>
+          <li class="">  
+          <a href="../../workshop-impacts-digital-transformation-innovation-across-sectors/index.html">Workshop: &quot;The impacts of digital transformation on innovation across sectors&quot;</a>  </li>
+          <li class="">  
+          <a href="../../oecd-daejeon-ministerial/index.html">The OECD Daejeon Ministerial</a>  </li>
+          <li class="">  
+          <a href="../../global-entrepreneurship-week/index.html">Global Entrepreneurship Week</a>  </li>
+          <li class="">  
+          <a href="../../workshop-stimulating-knowledge-transfer-challenges-and-policy-responses/index.html">Workshop: &quot;Stimulating knowledge transfer: challenges and policy responses&quot;</a>  </li>
+          <li class="">  
+          <a href="../../conference-tip50-what-have-we-learnt-where-innovation-policy-heading/index.html">Conference: TIP@50: What have we learnt? Where is innovation policy heading?</a>  </li>
+          <li class="">  
+          <a href="../../workshop-boosting-knowledge-transfer-between-science-and-industry-new-models-and-business-practices/index.html">Workshop: &quot;Boosting knowledge transfer between science and industry: New models and business practices&quot;</a>  </li>
+          <li class="">  
+          <a href="../../produtividade-brasileira-inova-o-2015/index.html">Produtividade Brasileira – Inovação 2015</a>  </li>
+          <li class="">  
+          <a href="../../workshop-semantic-analysis-innovation-policy/index.html">Workshop: &quot;Semantic analysis for innovation policy&quot;</a>  </li>
+          <li class="">  
+          <a href="../../workshop-digital-health-innovations/index.html">Workshop: &quot;Digital health innovations&quot;</a>  </li>
+          <li class="">  
+          <a href="../../workshop-how-leverage-potential-digital-transformation-innovation-and-research/index.html">Workshop: &quot;How to leverage the potential of the digital transformation for innovation and research?&quot;</a>  </li>
+      </ul>      <h4><a href="../../index/index.html" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Organisations</a></h4>
+    <ul>          <li class="">  
+          <a href="../../innovation-policies-space-and-ocean-ipso/index.html">Innovation Policies for Space and Ocean (IPSO)</a>  </li>
+          <li class="">  
+          <a href="../../oecd-committee-scientific-and-technological-policy-cstp/index.html">OECD Committee for Scientific and Technological Policy (CSTP)</a>  </li>
+          <li class="">  
+          <a href="../../oecd-space-forum/index.html">OECD Space Forum</a>  </li>
+          <li class="">  
+          <a href="../../oecd-working-party-innovation-and-technology-policy-tip/index.html">OECD Working Party on Innovation and Technology Policy (TIP)</a>  </li>
+          <li class="">  
+          <a href="../../oecd-global-science-forum-gsf/index.html">OECD Global Science Forum (GSF)</a>  </li>
+          <li class="">  
+          <a href="../../oecd-working-party-national-experts-science-and-technology-indicators-nesti/index.html">OECD Working Party of National Experts on Science and Technology Indicators (NESTI)</a>  </li>
+          <li class="">  
+          <a href="../../ocean-economy-and-innovation/index.html">The Ocean Economy and Innovation</a>  </li>
+      </ul>      <h4><a href="../../index/index.html" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Countries</a></h4>
+    <ul>          <li class="">  
+          <a href="../../netherlands-country-managed-community-pilot/index.html">Netherlands: Country-managed Community (pilot)</a>  </li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div></div></div></div></div></div>
+  </div><!-- /.block -->
+
+
+
+
+
+ 
+
+<div class="block block-ipp_cop_list block-ipp_cop_list-id-ipp_cop_list_tab_intro">           
+  <h3 class="title">Introductory text for community filter</h3>    <div class="content"><p>The IPP’s Communities of Practice (CoPs) provides live and interactive spaces where you can participate in events, learn about projects and topics related to innovation policy, contribute to blogs and discussions and share documents. Welcome! <br> <br> </p><a href="../../communities/index/index.html" class="goto-button" id="goto-button-cop">Go to Communities</a><p> <br> <br>
+Select a CoP through the quick access menu on the left or browse our directory using the following options:</p></div>
+  </div><!-- /.block -->
+
+
+
+
+
+ 
+
+<div class="block block-ipp_cop_list block-ipp_cop_list-id-ipp_cop_list_goto_button">           
+  <h3 class="title">Button with link to communities</h3>    <div class="content"></div>
+  </div><!-- /.block -->
+
+
+
+
+
+ 
+
+<div class="block block-views block-views-id--exp-ipp_cop_list-communities last">           
+      <div class="content"><form action="https://www.innovationpolicyplatform.org/communities" method="get" id="views-exposed-form-ipp-cop-list-communities-ad8076f9ba0ebfe0a065902287cd1ac5" accept-charset="UTF-8" role="form"><div><div class="views-exposed-form ">
+    <div class="views-exposed-widgets clearfix ">
+          <div id="edit-field-community-type-tid-wrapper" class="views-exposed-widget views-widget-filter-field_community_type_tid">
+                  <label for="edit-field-community-type-tid">
+            Community Type          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-community-type-tid form-group">
+ <select class="form-control form-select" id="edit-field-community-type-tid" name="field_community_type_tid"><option value="All" selected="selected">- Any -</option><option value="13698">Topics</option><option value="13699">Projects</option><option value="13700">Events</option><option value="13702">Countries</option><option value="13701">Organisations</option><option value="21483">Archive</option></select>
+</div>
+        </div>
+              </div>
+              <div class="views-exposed-widget views-widget-sort-by">
+        <div class="form-item form-type-select form-item-sort-by form-group">
+  <label for="edit-sort-by">Sort by </label>
+ <select class="form-control form-select" id="edit-sort-by" name="sort_by"><option value="space_most_activity" selected="selected">Most activity</option><option value="title">Title</option><option value="published_at">Published at</option><option value="space_recent_activity">Recent activity</option><option value="space_most_popular">Most popular</option><option value="created">Post date</option><option value="changed">Updated date</option></select>
+</div>
+      </div>
+      <div class="views-exposed-widget views-widget-sort-order">
+        <div class="form-item form-type-select form-item-sort-order form-group">
+  <label for="edit-sort-order">Order </label>
+ <select class="form-control form-select" id="edit-sort-order" name="sort_order"><option value="ASC">Asc</option><option value="DESC" selected="selected">Desc</option></select>
+</div>
+      </div>
+                <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-ipp-cop-list" name="" value="Apply" class="form-submit btn btn-default btn-primary" />    </div>
+      </div>
+</div>
+</div></form></div>
+  </div><!-- /.block -->
+
+
+
+
+
+                <div class="om-clearfix"></div>
+              </div><!-- /.om-tabbed-content-inner -->
+            </div><!-- /.om-tabbed-content -->
+                        </div>
+    </div>
+  </div><!-- /.om-maximenu-tabbed-content-inner -->
+</div><!-- /.om-maximenu-tabbed-content -->
+      
+
+      
+
+
+
+      </div><!-- /#om-maximenu-[menu name] -->   
+
+
+  </div>
+</div>
+  </div>
+</div>
+
+
+<div id="main-wrapper">
+  <div id="main" class="main container">
+            <div id="content">
+      <div class="row">
+
+        
+        <div class="col-md-12 inner">
+          <ul id="contextual-tabs">
+      <li>
+    <ul class="oa_visibility_toolbar">
+  <li class="dropdown  btn-group">
+    <a class="dropdown-toggle btn btn-small btn-sm btn-default"
+      id="visibility-dropdown" data-toggle="dropdown" href="#"
+      title="Public">
+              <i class="icon-unlock"></i><span>This page is Public</span>
+          </a>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="visibility-dropdown">
+      <li class="dropdown-column">
+                  <div class="oa-visibility-public">Public</div>
+              </li>
+    </ul>
+  </li>
+</ul>
+  </li>
+      </ul>
+          <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Patent data - Patent valuation methods</h1>                                                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    <div>
+<div class="panel-display bartlett-flipped clearfix radix-bartlett-flipped" >
+  <div class="container-fluid">
+    <div class="row">
+
+      <div class="col-md-8 panel-panel">
+        <div class="panel-panel-inner">
+          <div class="row">
+            <div class="col-md-12 radix-layouts-contentheader radix-layouts-content panel-panel">
+              <div class="panel-panel-inner">
+                <div class="panel-pane pane-entity-field pane-node-body panel panel-default panel-margin-bottom" >
+  
+      
+  
+  <div class="pane-content panel-body">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><div>The term “patent value” can refer to the “private” value of the patent to the holder of the patent title, but also to the social value, i.e. its contribution to society’s stock of technology. It is important for the design and interpretation of patent indicators to have value issues in mind. This node reports major findings related to an approach that attempts to cast light on the value of patents by using patent information mainly provided by bibliographic sources (publications, search and examination reports, opposition, etc.). It provides an overview of specific indicators of patent value.<br style="color: #008080;" />
+<h2>&nbsp;</h2>
+</div></div>
+      </div>
+</div>
+  </div>
+
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-paragraphs panel panel-default panel-margin-bottom" >
+  
+      
+  
+  <div class="pane-content panel-body">
+    
+<div class="paragraphs-items paragraphs-items-field-paragraphs paragraphs-items-field-paragraphs-full paragraphs-items-full">
+  <div class="field field-name-field-paragraphs field-type-paragraphs field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-ipp-topic-body" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-paragraph-title field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">What is meant by the “value of patents”?</div>
+      </div>
+</div>
+<div class="field field-name-field-paragraph-body field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="field-expander field-expander-0"><div style="text-align:justify"><span style="text-align:justify">The term “patent value” can mean the economic “private” value to the holder, defined as the discounted flows of revenue generated by the patent over its lifetime, or it can mean the “social” value of the patent, that is, its contribution to society’s stock of technology. The two concepts are closely related, as the revenue generated should be commensurate with the technological contribution, but they are not identical, as part of the social value is not appropriated by the patent holder (there are externalities): the published knowledge, for instance, can be used by other inventors and/or competitors to improve on the initial invention.</span></div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">In addition, there is a distinction between the value of the patent itself and the value of the underlying invention. The former comprises only the value added by the fact that the invention is patented—it is the difference between the value of the invention as it is patented and the value it would have had it not been patented. The latter refers to the technological content or “quality” of the invention, that is, its contribution to the state of the art. An invention with a significant contribution to the state of the art will affect future technological developments. The two notions differ to the extent that the patent improves the appropriability of the benefits of certain inventions more than others. For example, inventions with high technical value might be widely appropriable (e.g. because a patent is easy to circumvent in the invention’s particular field of technology). Inventions with small technical value may generate high economic value, e.g. if the inventor, for various reasons, already has a monopoly position on the market.</div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify"><span style="text-align:justify">Yet the capacity of patents to ensure appropriability of the income generated by inventions is known to differ, for instance, across technical fields.</span></div>
+<div style="text-align:justify">However, it is necessary to take the notion of the value of patents into account for patent statistics aimed at reflecting technological performance. All studies investigating the value either of patented inventions or of patent protection have shown that their statistical distribution is quite skewed: while some patents have high value, many others have little (e.g. they remain unexploited). As a result, patent counts, which give the same weight to all patents, can be misleading: a set of 100 patents can reflect various levels of technological performance depending on its composition in terms of high-value vs. low-value patents. If information is available on the value of patents, there are two ways of dealing with this problem in indicators: one solution is to compile weighted counts, with the value as a weight; the other is to count only patents of sufficient value, ignoring the rest.</div>
+<div style="text-align:justify"> </div>
+<h2><span></a></span></h2>
+</div></div>
+      </div>
+</div>
+  </div>
+</div>
+</div>
+          <div class="field-item odd"><div class="entity entity-paragraphs-item paragraphs-item-ipp-topic-body" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-paragraph-title field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">What approaches can be adopted to infer the private economic value of patents? </div>
+      </div>
+</div>
+<div class="field field-name-field-paragraph-body field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="field-expander field-expander-1"><div style="text-align:justify">A difficulty in estimating the value of a patent is timeliness, i.e. the need to have reliable indicators reflecting the economic or technological value of an invention early enough so that they can be used to assess the recent position of a company or a country (in the patent value landscape). Three main lines of work have been followed by researchers to estimate or infer the private economic value of patents, which are as follows:</div>
+<div style="text-align:justify"> </div>
+<ul><li><span>Conducting surveys asking inventors (holders) about the economic value of their patents.</span></li>
+<li><span>Analysing data from the patenting procedure (e.g. grant or refusal of the application, citations, renewal, geographical scope of protection, etc.).</span></li>
+<li><span>Estimating value from financial data (e.g. market value of companies, the value of initial public offerings, etc.; Hall, Jaffe and Trajtenberg, 2005).</span></li>
+</ul><div style="text-align:justify"> </div>
+<div style="text-align:justify">In the first methodology, patent holders or inventors are asked about the monetary value of their patents (the price at which they would be willing to sell the invention, including the revenues that the patent will generate in subsequent years). The merit of this approach is that it gathers information directly from the source. However, it may be subject to bias, as the inventor or the patent owner might not have, or might not be willing to provide, accurate information.</div>
+<div style="text-align:justify">Studies have shown that the size distribution of private value returns from patents is quite skewed, with a peak at zero. A patent can generate economic returns in different ways: exploitation in-house, licensing, “strategic use” (to block others or to exchange technology), among others.</div>
+<div> </div>
+<div style="text-align:justify">The second approach, analyzing patent procedures results, attempts to cast light on the value of patents by using patent information mainly provided by bibliographic sources (publications, search and examination reports, opposition, etc.) which can be correlated with the value of patents. Some of these indicators rely on the observed behaviour of patent owners in order to estimate the private value of patents (based on the renewal of patents, number of countries in which a patent is filed, decisions to sell [re-assign] patents, etc.). Other indicators that have been consistently found to be good predictors of patent value include forward citations, the number of claims, and patent oppositions or litigation.</div>
+<div> </div>
+<div style="text-align:justify">The third approach involves the econometric estimation of the contribution of categories of patents or patent portfolios to the economic performance of companies (e.g. stock market valuations, spin-offs), after controlling for their stock of R&amp;D and physical capital. For instance, the use of market value (e.g. Tobin’s q, the ratio of the market value of a firm's assets to the replacement cost of the firm, which is typically measured as the replacement value of a firm’s physical assets) to estimate rents attributed to patents assumes that investors’ behaviour can reveal patent value. This research has consistently reported a positive and significant marginal value of patent stocks and their quality (i.e. citation-weighted patent stock).</div>
+<div> </div>
+<div style="text-align:justify">Using proxies of patent value, patent-based indicators can be compiled which are less affected by the skewed value distribution of patents:</div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">
+<ul><li><span>Weighted counts: weight the count of patents by the number of forward citations, the number of family members, etc.</span></li>
+<li><span>Counts of selected patents (dropping lower value patents): triadic families, highly cited patents (top 10% of the distribution), grants (instead of applications), patents renewed until some age (e.g. five years); etc.</span></li>
+</ul></div>
+<div> </div>
+<h2><span></a></span></h2>
+<p> </p>
+</div></div>
+      </div>
+</div>
+  </div>
+</div>
+</div>
+          <div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-ipp-topic-body" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-paragraph-title field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">Overview of patent value indicators</div>
+      </div>
+</div>
+<div class="field field-name-field-paragraph-body field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="field-expander field-expander-2"><h3 style="text-align:justify"><span>Use of forward citations</span></h3>
+<div style="text-align:justify">The prior art of the invention (patent and literature) cited in patent documents provides useful information about the diffusion of technologies. The number of citations a patent application receives in subsequent patent applications (forward citations) has been found to be strongly associated with the economic value of patents (Scherer et al., 1999) and the social value of inventions (Trajtenberg, 1990). The number of forward citations is one of the most frequently used value indicators.</div>
+<div> </div>
+<div style="text-align:justify">Two main arguments support the validity of forward citations as indicators of patent value: first, they indicate the existence of downstream research efforts, suggesting that money is being invested in the development of the technology (and there is a potential market); and second, the fact that a given patent has been cited by subsequent patent applications suggests that it has been used by patent examiners to limit the scope of protection claimed by a subsequent patentee, to the benefit of society. In this sense, forward citations indicate both the private and the social value of inventions.</div>
+<div style="text-align:justify">Nevertheless, the main difficulty in computing forward citations is that they appear over time, and sometimes a long while after the cited patent was filed, granted or even reached full term. For the sake of relevance it is important to ensure the timeliness of indicators. One remedy to this problem consists in counting citations received by patent applications within a given time window (e.g. within the first five years of publication).</div>
+<div> </div>
+<div style="text-align:justify">A common approach used to count forward citations is as follows:</div>
+<div><img alt="" src="../../sites/default/files/photos/CITit/index.png#overlay-context=content/patent-data-patent-valuation-methods" height="101" width="257" /></div>
+<div style="text-align:justify"><span>where </span><span><em>CITi,T</em> </span><span>is the number of forward citations received by patent application i published in year </span><em>Pi</em><span> within </span><em>T</em><span> years from its publication. </span><em>Cj.i</em><span> is a dummy variable which is equal to 1 if application </span><em>j</em><span> is citing application </span><em>i</em><span>, and 0 otherwise. </span><em>J(t)</em><span> is the set of all applications published in year </span><em>t</em><span>. A time window frequently used is five years after publication of the cited patent, as it has been calculated with USPTO patents that more than 50% of the citations received in an entire life of a patent occur within the first five years.</span></div>
+<h3><span></a></span></h3>
+<div style="text-align:justify"> </div>
+<h3 style="text-align:justify"><span>Indicators based on procedural information and applicants’ behaviour</span></h3>
+<div style="text-align:justify">Information on the value of patents can be inferred using data from the patent application process (notably the fate of a patent application: withdrawal, refusal or grant) and applicants’ behaviour in terms of the survival span of patents (renewal rates) and the geographical scope of protection—e.g. the number of jurisdictions in which patent protection has been sought, the number of international patent families (see OECD (2009), Chapter 3).</div>
+<div> </div>
+<h4 style="text-align:justify"><span>The fate of the patent application</span></h4>
+<div style="text-align:justify">A first indicator of the quality of an invention is whether a patent is granted or not. A granted patent corresponds to an invention which is officially recognised as fulfilling the patentability criteria: novelty, inventive step (nonobviousness) and industrial applicability. Such patents are of higher technological and economic value than unsuccessful patent applications. However, the grant is not always a good indicator. For instance, a better knowledge of the European system can lead to higher grant rates for EP countries than for US applicants at the EPO (Hinze and Schmoch, 2004).</div>
+<div> </div>
+<div style="text-align:justify">Pending applications may have some value on the market as they signal potential rights that may be enforced retroactively once granted. For instance, the European Patent Convention says that a published patent application provisionally confers upon the applicant the same rights in all designated states as that in which the patent was granted.</div>
+<div> </div>
+<div style="text-align:justify">The USPTO used to publish granted patents only, and all patents used for indicators would then be similar from that perspective. However, as most indicators are now based on applications, not grants, one has to be aware of this source of heterogeneity: some of the applications counted have been/will be granted, others have not/will not be granted. Applications offer a notable benefit in terms of timeliness, as grant or refusal takes place years after the application.</div>
+<div style="text-align:justify">By analysing characteristics of the patent application (e.g. type of ownership, number of inventors, domestic and international co-operation, technology class, date of priority or application, etc.) it is possible to identify probabilistically factors underlying the refusal, withdrawal or grant of patent applications (see Guellec and van Pottelsberghe, 2000). Some studies (e.g. Reitzig, 2004; Burke and Reitzig, 2007) suggest that a “request for accelerated examination” at the EPO (similar procedures exist at the JPO and USPTO) may signal high-value inventions for which the owner wants protection as soon as possible.</div>
+<div> </div>
+<h4 style="text-align:justify"><span>Renewal of patents</span></h4>
+<div style="text-align:justify">Data on the renewal of patents and on family size (commonly defined in the economic literature as the number of countries in which protection has been sought—see OECD, 2009, chapter 4) have been widely used to draw inferences on the value of patents. Studies in this field exploit the fact that it is expensive to holders to maintain patent protection for an additional period of time and in additional countries. Hence it is hypothesized that the value of continuing patent protection over time and of expanding it geographically is associated with the economic importance of the invention. Not surprisingly, the two types of indicators have been found to be highly correlated. In most patent systems, patent holders must pay a periodic fee in order to keep their patents in force. Typically, the renewal fee increases over time, and, at the end of every period, patent holders must decide whether or not to renew. Failure to do so results in the lapse of the patent, which releases the invention into the public domain. Observations of the proportion of patents that are renewed at different ages, together with the relevant renewal fee schedules, provide information on the distribution of the value of patents and the evolution of this distribution over a patent’s lifespan (Griliches, 1990).</div>
+<div> </div>
+<div style="text-align:justify">The rationale behind this approach is based on economic criteria. Patents are renewed only if the value of keeping the patent alive (based notably on the discounted expected stream of profits) is higher than the cost of renewing the patent: when the renewal fee is not paid, the patent has expected returns (in future periods) which are lower than the threshold. As the fees increase over time in most countries, patentees must consider the profitability of renewing for the following period during the current period (the protection “option”; Lanjouw and Schankerman, 1997) against the costs of maintenance. It is usually difficult for holders to know the expected returns of a patent. It frequently takes some time to learn the market potential of inventions as the decision to patent is frequently made at early stages of the innovation process. </div>
+<div> </div>
+<div style="text-align:justify">In Japan and the United States, the renewal fees for patents granted to universities and small and medium-sized enterprises (SMEs) as well as government entities may be reduced (preferential treatment).</div>
+<div> </div>
+<div style="text-align:justify">Investigations in this field have confirmed the highly skewed distribution of patent values, with a median far below the mean. According to Pakes and Schankerman (1986), half of the estimated value belongs to about 5% of the entire patent population. </div>
+<div> </div>
+<div style="text-align:justify">In a study of renewal of patents in Finland and Norway, Pakes and Simpson (1989) found that patents in the pharmaceutical sector and the lumber, wood and paper sector had the highest renewal rates, followed by patents for inventions in the machinery sector, the chemical sector, food products and the primary metals sector.</div>
+<div> </div>
+<div style="text-align:justify">There are a number of limitations to the patent renewal approach. The results of these studies rely on assumptions about the functional form of the relationship and on an unobserved value of the most valuable patents—those renewed to full statutory term (“open-ended”). In some cases, the dropping of a patent may not be indicative of low value, but rather of a change in a company’s strategy, for instance, one related to an external shock. In technologies that change rapidly, many inventions are of high value when introduced but become obsolete shortly thereafter. Exogenous factors may also influence the decision to renew patents. For instance, Schankerman (1998) finds evidence of oil shocks in French patent renewal data. And in the pharmaceutical industry, institutional factors such as long regulatory delays between drugs development and their introduction on the market may make renewal rates intrinsically higher than in other industries.</div>
+<div> </div>
+<div style="text-align:justify">Finally, the time profile of revenues may depend upon the technical field and other characteristics of the invention; inventions are obsolete more rapidly in electronics than in pharmaceuticals.</div>
+<div> </div>
+<h4 style="text-align:justify"><span>Patent family size</span></h4>
+<div style="text-align:justify">The value of patents is also associated with the geographical scope of patent protection; that is, with the number of jurisdictions in which a patent grant has been sought, forming a “patent family” (see OECD 2009, chapter 4 for definitions of patent families). The fact of applying for patent protection abroad already constitutes a sign of economic value, as the decision reflects the owner’s willingness to bear the costs of international patent protection. The rationale is closely related to the decision to renew a patent; it is costly to make a patent valid in more than one country (as it implies applying for a patent directly or indirectly via regional or international offices) and to maintain the protection (Putnam, 1996).</div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">In contrast with the data on renewal that are available over time (or data on forward citations), the number of countries in which protection is sought is available earlier in time (one year priority right according to the Paris Convention). An advantage of this source of information is that it allows the construction of indicators early in the life of a patent application.</div>
+<div> </div>
+<div style="text-align:justify">The geographical scope of protection—as reflected in international patent grants for a given invention—reflects the market coverage of an invention: the higher the number of countries in which protection has been sought, the greater the potential for commercialisation and profit. </div>
+<div> </div>
+<div style="text-align:justify">There is consistent evidence that family size reflects economic value. For instance, Lanjouw and Schankerman (2004) find a strong positive relationship between a quality index of patents and family size (in a sample of U.S. patents). Guellec and van Pottelsberghe de la Potterie (2000) report a positive association between family size and the likelihood that a European patent will be granted. Harhoff, Scherer and Vopel, (2002) provide evidence that patents that are part of large international patent families are more strongly associated with economic value. In the group of pharmaceuticals and chemicals, this indicator carries the highest coefficient of all technology-specific sets of results.</div>
+<div> </div>
+<div style="text-align:justify">In the European patent system, the list of EPC (European Patent Convention) countries in which protection is sought is provided in the application. The payment of application fees to the EPO depends on this list, although the relationship has become flatter over time. For European and international applications filed on or after 1 July 1999 at the EPO, the designation fees are deemed paid for all contracting states upon payment for at least seven countries. In fact, under the EPC 2000, applications will be deemed to designate all available contracting states through a single flat designation fee. From April 2009, European patent applications designate all contracting states as in the PCT procedure.</div>
+<div> </div>
+<div style="text-align:justify">Applying through the PCT may already be seen as an indicator of inventions with higher market expectations. This indicator can be broken down into PCT I and PCT II. Further insight can be obtained by looking at the time elapsed between two stages, i.e. if the period of time between filing date and entry into the regional phase is 20 months or less (PCT I) or exceeds 20 months (PCT II). One argument would be that the greater the applicant’s willingness to pay for the delay of cost-intensive decisions during the application, the higher the applicant’s uncertainty about the patent’s commercial value (see Burke and Reitzig, 2007).</div>
+<div> </div>
+<div style="text-align:justify">After the patent has been granted, the family size of a European patent can be quantified as the number of EPC member states in which the patent was effectively validated. The size of the EPC family can diminish naturally over time as patents are abandoned in different countries, hence the need to observe the geographical scope at different points in time. Information on the renewal and geographical scope of protection can be used to produce more refined indicators that take into account the evolution of protection over time and across countries (as patents may lapse in some countries each year). The following indicator can reflect both the age reached and the European family size (van Pottelsberghe and van Zeebroeck, 2007):<span> </span></div>
+<div><img alt="" src="../../sites/default/files/photos/SYCTi/index.png#overlay-context=content/patent-data-patent-valuation-methods" height="96" width="291" /></div>
+<div><span style="text-align:justify">where </span><em style="text-align:justify">SYCT,i</em><span style="text-align:justify"> stands for the scope year (</span><em style="text-align:justify">SY</em><span style="text-align:justify">) index of a given patent </span><em style="text-align:justify">i</em><span style="text-align:justify"> over </span><em style="text-align:justify">C</em><span style="text-align:justify"> countries and </span><em style="text-align:justify">T</em><span style="text-align:justify"> years of maintenance, and </span><em style="text-align:justify">Gi</em><span style="text-align:justify"> (</span><em style="text-align:justify">c,t</em><span style="text-align:justify">) is a variable that takes the value 1 if the granted patent </span><em style="text-align:justify">i</em><span style="text-align:justify"> was active in country </span><em style="text-align:justify">c</em><span style="text-align:justify"> in year </span><em style="text-align:justify">t</em><span style="text-align:justify"> from its filing date, and 0 otherwise. The index is normalised to its maximum value representing </span><em style="text-align:justify">T</em><span style="text-align:justify"> years of maintenance in </span><em style="text-align:justify">C</em><span style="text-align:justify"> countries. In this way, the indicator sums for each year in a patent life the number of countries in which the patent was active in Europe. To enable the comparability of the indicator over time and to ensure its availability within 10 years from the date of filing, the indicator proposed by the authors was based on 10 countries over 10 years. This makes it possible to overcome the institutional bias to family size (the institutional expansion of the EPC, from 10 countries in 1977 to 32 in 2007).</span></div>
+<div> </div>
+<div style="text-align:justify">Extensions of this indicator can consider weighing validation in jurisdiction by their economic importance, for instance, by the magnitude of their GDP. As such, the <em>SY</em> index score of non-granted applications is necessarily zero, since patents can be validated in EPC members only once they have been granted by the EPO. A provisional version of the SY index has been proposed, which takes into account the duration of the grant procedure (the number of years during which the application has been maintained).</div>
+<h3><span></a></span></h3>
+</div></div>
+      </div>
+</div>
+  </div>
+</div>
+</div>
+          <div class="field-item odd"><div class="entity entity-paragraphs-item paragraphs-item-ipp-topic-body" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-paragraph-title field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">Other Indicators </div>
+      </div>
+</div>
+<div class="field field-name-field-paragraph-body field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="field-expander field-expander-3"><h4 style="text-align:justify"><span>The number of claims</span></h4>
+<div style="text-align:justify">The scope of a patent is an important determinant of its economic value, as it defines the legal dimensions of protection and thereby the extent of market power attributed to the patent. A broader scope refers to a broader area of technology from which others are excluded.</div>
+<div style="text-align:justify">However, the “scope” or “breadth” of a patent is difficult to measure. The scope is reflected in its claims but also in conjunction with the backward patent citations which define the patent’s legal boundaries with respect to the prior art. As evidenced in interviews with patent lawyers and examiners, a patent application seeking to protect an invention with broad scope might induce the examiner to delineate the patent claims by inserting more references to the relevant patent literature. Such backward citations reflect the scope of a patent as well as the existence of subject matter that may restrict its scope (Harhoff, Scherer and Vopel, 2002).</div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">A number of economists have used the number of claims to proxy the legal scope of patents. It has been argued that, as each individual patent represents a bundle of inventive components, each reflected in a claim, the number of claims can be indicative of the value of the entire patent. Nevertheless, the tendency of certain applicants to “inflate” the number of claims for strategic purposes makes the relationship between scope and number of claims quite noisy. In addition, the claims that appear in granted patents are those that are included following the examination.</div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">Empirical analysis on this matter is scarce but quite positive. In their factor model of patent quality used to analyse research productivity in the United States, Lanjouw and Schankerman (2004) found that the number of claims was the most important indicator of the quality of patents in six out of seven technological fields studied. They  also found that the likelihood of a patent being litigated, which reflects its scope, increases with its number of claims (Lanjouw and Schankerman, 1997).</div>
+<div> </div>
+<h4 style="text-align:justify"><span>The number of technical classes</span></h4>
+<div>The number of technical classes (as indicated by the number of IPC classes) attributed to a patent application has also been used as a proxy for the scope, and hence the value, of a patent. This approach was proposed by Lerner (1994) in a study of the market value of biotechnology patents as a measure of the value of a patent portfolio. He finds a positive and sizeable correlation between the firm’s market value and the average scope of its patents.</div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">However, there is limited evidence of a correlation between the number of classes and the value of a patent. Lanjouw and Schankerman (1997) find that the number of IPC classifications has a small positive effect on the probability of infringement litigation relating to U.S. patents. Using information from a survey on the perceived economic value of patents by German inventors, Harhoff, Scherer and Vopel, (2002) did not find the number of four-digit IPC classes informative of the patent value in any of the technology fields analysed. The authors explained that the difference in results may be due to the use of patents that cover a broad set of technical areas, while Lerner’s study focuses only on biotechnology patents. They also pointed out that there may also be important differences in the way the German and the US patent offices assign the IPC classification.</div>
+<div style="text-align:justify"> </div>
+<h4 style="text-align:justify"><span>The number of inventors in a patent</span></h4>
+<div style="text-align:justify">Several economic studies have associated the number of inventors listed in a patent with the economical and technological value of patents. The number of inventors may proxy the cost of the research behind the invention, which itself is statistically related to the technical value of the invention: the more resources involved, the more research-intensive and expensive the project (Guellec and van Pottelsberghe, 2001; Gambardella, Harhoff and Verspagen, 2005).</div>
+<div> </div>
+<h4 style="text-align:justify"><span>Opposition and litigation</span></h4>
+<div style="text-align:justify">Certain patent offices offer the possibility for third parties to oppose granted patents that they deem invalid. As opposing a patent is a costly move, it can be inferred that only patents with some damaging effects on competition, and thus some economic value, will be opposed. Hence the fact that a patent is opposed can be interpreted as a signal of value. Further, patents that survive such opposition are proven to be strong patents that offer their holders the prospect of high profitability.</div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">Few patents are legally opposed. In 2006, the opposition rate at the EPO was around 5.4% (oppositions were filed against 2 990 patents). Of the patents opposed at the EPO, roughly one-third are revoked, one-third are maintained unchanged, and one-third are maintained amended. The opposition rate at the EPO is much higher than the re-examination rate at the USPTO for all technology classes (Merges, 1999; Graham et al., 2002). The rate of re-examination at the USPTO between 1981 and 1998 was 0.3% (of grants), whereas at the EPO, the average opposition rate for the same period was 8.6% of grants. However, in absolute terms, patent litigation grew significantly in the United States from 1985 to 2000, although the rate of litigation relative to the number of issued patents has remained constant (Graham et al., 2002).</div>
+<div style="text-align:justify"> </div>
+<div style="text-align:justify">Some authors have found that opposed and litigated patents are of higher than average value. Harhoff, Scherer and Vopel, (2002) find that successful defence against opposition (in the German patent system) is a particularly strong predictor of patent value. Harhoff and colleagues explain that stronger patent rights survive what amounts to a two-tier selection process (grant and survival of opposition), which provides a highly reliable indicator of their quality. According to Lanjouw and Schankerman (1998), patents that are litigated have particular characteristics. Compared to a random sample of U.S. patents from the same cohorts and technology areas, the authors find that more valuable patents and those with domestic owners are considerably more likely to be involved in litigation. Patents owned by individuals are at least as likely to be the subject of a case as corporate patents and litigation is particularly frequent in new technology areas.</div>
+<div> </div>
+<h2> </h2>
+<div><span><strong>Contributor:</strong></span> OECD</div>
+</div></div>
+      </div>
+</div>
+  </div>
+</div>
+</div>
+          <div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-ipp-topic-body" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-paragraph-body field-type-text-long field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="field-expander field-expander-4"><h5 style="text-align:justify">References</h5>
+<div style="text-align:justify">
+<ul><li><span>Burke, P. and M. Reitzig (2007), “Measuring patent assessment quality – Analyzing the degree and kind of (in)consistency in patent offices’ decision making”, Research Policy, Vol. 36, pp. 1404–30.</span></li>
+<li><span>Gambardella, A., D. Harhoff and B. Verspagen (2005), “The Value of Patents”, mimeo.</span></li>
+<li><span>Graham, S. J. H., B. H. Hall, D. Harhoff and D. C. Mowery (2002), “Post-issue patent quality control: A comparative study of U.S. patent re-examinations and European patent oppositions”, NBER Working Paper 8807, National Bureau of Economic Research, Cambridge, MA.</span></li>
+<li><span>Griliches, Z. (1990), “Patent statistics as economic indicators: A survey”, Journal of Economic Literature, Vol. 28, pp. 1661–1707.</span></li>
+<li><span>Guellec, D. and B. van Pottelsberghe (2001), “The internationalisation of technology analysed with patent data”, Research Policy, Vol. 30/8, pp. 1256–66.</span></li>
+<li><span>Guellec, D. and B. van Pottelsberghe (2000), “Applications, grants and the value of patents”, Economic Letters, Vol. 69/1, pp. 109–14.</span></li>
+<li><span>Hall, B. H., A. Jaffe and M. Trajtenberg (2005), “Market value and patent citations”, Rand Journal of Economics, Vol. 36, 16-38.</span></li>
+<li><span>Hall B. H., A. Jaffe and M. Trajtenberg (2001), “Market value and patent citations: A first look”, Economics Department Working Paper E00-277, University of California.</span></li>
+<li><span>Harhoff, D., F.M. Scherer and K. Vopel (2002), “Citations, family size, opposition and the value of patent rights”, Research Policy, Vol. 32/ 8, pp. 1343–63.</span></li>
+<li><span>Hinze, S. and U. Schmoch (2004), “Opening the ‘Black Box’: Analytical approaches and their impact on the outcome of statistical patent analyses”, in W. Glänzel, H. Moed and U. Schmoch (eds.), Handbook of Quantitative Science and Technology Research: The Use of Publication and Patent Statistics in Studies on R&amp;D Systems, pp. 215–35. Kluwer Academic Publishers, Dordrecht/Boston/London. </span></li>
+<li><span>Lanjouw, J. O. (1998), “Patent protection in the shadow of infringement: Simulation estimations of patent value”, The Review of Economic Studies, Vol. 65, pp. 671–710.</span></li>
+<li><span>Lanjouw, J. and M. Schankerman (2004), “Patent quality and research productivity: measuring innovation with multiple indicators”, The Economic Journal, Vol. 114, pp. 441–65.</span></li>
+<li><span>Lanjouw, J. O. and M. Schankerman (1998), “Patent suits: Do they distort research incentives?”, CEPR working paper series, No. 2042, Centre for Economic Policy Research, London.</span></li>
+<li><span>Lanjouw, J. O. and M. Schankerman (1997), “Stylised facts of patent litigation: value, scope and ownership”, NBER working paper series, National Bureau of Economic Research, Cambridge, MA..</span></li>
+<li><span>Lemley, M. A. (2001), “Rational ignorance at the patent office”, Northwestern University Law Review, No. Vol. 95/4, pp. 1497-1532.</span></li>
+<li><span>Lerner, J. (1994), “The Importance of Patent Scope: An Empirical Analysis”, RAND Journal of Economics, Vol. 25/2, pp. 319–33.</span></li>
+<li><span>Merges, R. P. (1999), “As many as six impossible patents before breakfast: Property Rights for Business Concepts and Patent System Reform”, Berkeley High Technology Law Journal Vol. 14, pp. 577-615.</span></li>
+<li><span>OECD (2009), OECD Patent Statistics Manual, chapters 3, 4; 6.3; 6.5.3; 8.1, 8.2, 8.3, 8.4, OECD Publishing, Paris. <a href="http://dx.doi.org/ 10.1787/9789264056442-en" target="_blank" rel="nofollow">http://dx.doi.org/ 10.1787/9789264056442-en</a></span></li>
+<li><span>Pakes, A. (1986), “Patents as options: Some Estimates of the Value of Holding European Patent Stocks”, Econometrics, Vol. 54/4, pp. 755–84.</span></li>
+<li><span>Pakes, A. and M. Schankerman (1986), “Estimates of the value of patent rights in European countries during the post-1950 period”, Economic Journal, December, pp. 1052–76.</span></li>
+<li><span>Putnam, J. (1996), “The Value of International Patent Rights”, Ph.D. thesis, Yale University, New Haven, Ct.</span></li>
+<li><span>Reitzig, M. (2004), “Improving patent valuations for management purposes: Validating new indicators by analyzing application rationales”, Research Policy, Vol. 33/6-7, pp. 939–57.</span></li>
+<li><span>Schankerman, M. (1998), “How valuable is patent protection? Estimates by technology field”, RAND Journal of Economics, Vol. 29 (1), pp. 77-107, The RAND Corporation.</span></li>
+<li><span>Squicciarini, M.; Dernis, H. and C. Criscuolo (2013), Measuring Patent Quality: Indicators of Technological and Economic Value, OECD Science, Technology and Industry Working Papers. OECD, Paris.</span></li>
+<li><span>Trajtenberg, M. (1990), “A Penny for your quotes: Patent citations and the value of innovation”, RAND Journal of Economics, Vol. 21/1, pp. 172–87.</span></li>
+<li><span>Trajtenberg, M., R. Henderson and A. Jaffe (1997), “University versus corporate Patents: A window on the basicness of invention”, Economics of Innovation and New Technology, Vol. 5/1, pp. 19–50.</span></li>
+<li><span>van Pottelsberghe, B. and N. van Zeebroeck (2007), “A brief history of space and time: The Cope-Year Index as a patent value indicator based on families and renewals”, CEPR Discussion Papers 6321.</span></li>
+</ul></div>
+<p> </p>
+</div></div>
+      </div>
+</div>
+  </div>
+</div>
+</div>
+      </div>
+</div>
+</div>
+  </div>
+
+  </div>
+<div class="panel-pane pane-ipp-content-topic-header panel panel-default panel-margin-bottom" >
+  
+      
+  
+  <div class="pane-content panel-body">
+    <img class="ipp-panel-header-image" src="../../sites/all/modules/features/ipp_content/graphics/topic_header/index.png" alt="Image description here." title="This is our block image." />  </div>
+
+  </div>
+<div class="panel-pane pane-ipp-content-topic-resources panel panel-default panel-margin-bottom" >
+  
+      
+  
+  <div class="pane-content panel-body">
+    <div class="container-fluid"><div class="row"><div class="col-md-6"><div class="panel-heading"><h3>Country Reports</h3></div><div class="pane-content panel-body"><img class="ipp-panel-image" src="../../sites/all/modules/features/ipp_content/graphics/globe/index.png" alt="Image description here." title="This is our block image." /><div class="view view-contentpage-related-resources view-id-contentpage_related_resources view-display-id-block view-dom-id-a284a8180187d8c0e87c10f2468aa844">
+        
+      <div class="view-filters">
+      <form action="https://www.innovationpolicyplatform.org/node/12502/17993+18303" method="get" id="views-exposed-form-contentpage-related-resources-block-a284a8180187d8c0e87c10f2468aa844" accept-charset="UTF-8" role="form"><div><div class="views-exposed-form ">
+    <div class="views-exposed-widgets clearfix ">
+          <div id="edit-publisher-value-wrapper" class="views-exposed-widget views-widget-filter-publisher_value">
+                  <label for="edit-publisher-value">
+            Publisher          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-publisher-value form-group">
+ <select class="form-control form-select" id="edit-publisher-value" name="publisher_value"><option value="All" selected="selected">- Any -</option><option value="1">OECD</option><option value="2">European Commission</option><option value="3">World Bank</option><option value="4">UN Bodies</option><option value="5">National Public Bodies</option><option value="6">Other</option></select>
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-contentpage-related-resources" name="" value="Filter" class="form-submit btn btn-default btn-primary" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div></div><div class="col-md-6"><div class="panel-heading"><h3>Thematic Reports</h3></div><div class="pane-content panel-body"><img class="ipp-panel-image" src="../../sites/all/modules/features/ipp_content/graphics/books/index.png" alt="Image description here." title="This is our block image." /><div class="view view-contentpage-related-resources view-id-contentpage_related_resources view-display-id-default view-dom-id-ffbd704f3e2f2783e2ee23a3389a8b11">
+        
+      <div class="view-filters">
+      <form action="https://www.innovationpolicyplatform.org/node/12502/17916+18184+18490+18687+17612+17822+17921+18139+18215+18247+18433+18464+18631+18366" method="get" id="views-exposed-form-contentpage-related-resources-default-ffbd704f3e2f2783e2ee23a3389a8b11" accept-charset="UTF-8" role="form"><div><div class="views-exposed-form ">
+    <div class="views-exposed-widgets clearfix ">
+          <div id="edit-publisher-value-wrapper" class="views-exposed-widget views-widget-filter-publisher_value">
+                  <label for="edit-publisher-value">
+            Publisher          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-publisher-value form-group">
+ <select class="form-control form-select" id="edit-publisher-value" name="publisher_value"><option value="All" selected="selected">- Any -</option><option value="1">OECD</option><option value="2">European Commission</option><option value="3">World Bank</option><option value="4">UN Bodies</option><option value="5">National Public Bodies</option><option value="6">Other</option></select>
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-contentpage-related-resources" name="" value="Filter" class="form-submit btn btn-default btn-primary" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="../../document/use-and-analysis-citations-patents-oecd-patent-statistics-manual/index.html">The Use and Analysis of Citations in Patents (OECD Patent Statistics Manual), <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2009-06-29T14:30:00-04:00">2009</span></a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="../../document/objectives-and-scope-manual-oecd-patent-statistics-manual/index.html">Objectives and Scope of the Manual (OECD Patent Statistics Manual), <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2009-06-29T14:30:00-04:00">2009</span></a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="../../document/indicators-internationalisation-science-and-technology-oecd-patent-statistics-manual/index.html">Indicators of the Internationalisation of Science and Technology (OECD Patent Statistics Manual), <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2009-06-29T14:30:00-04:00">2009</span></a></span>  </span></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="../../document/indicators-patent-value-oecd-patent-statistics-manual/index.html">Indicators of Patent Value (OECD Patent Statistics Manual), <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2009-06-29T14:30:00-04:00">2009</span></a></span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="../../document/pre-emptive-patenting-securing-market-exclusion-and-freedom-operation/index.html">Pre-Emptive Patenting: Securing Market Exclusion and Freedom of Operation, <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2009-06-29T14:30:00-04:00">2009</span></a></span>  </span></li>
+      </ul></div>    </div>
+  
+      <div class="text-center"><div class="item-list"><ul class="pagination pager"><li class="pager-first first"><a title="Go to first page" href="../patent-data-patent-valuation-methods.21b0d/index0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0?topic-filters=12279&amp;page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0">« first</a></li>
+<li class="pager-previous"><a title="Go to previous page" href="../patent-data-patent-valuation-methods.21b0d/index0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0?topic-filters=12279&amp;page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0">‹ previous</a></li>
+<li class="pager-item"><a title="Go to page 1" href="../patent-data-patent-valuation-methods.21b0d/index0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0?topic-filters=12279&amp;page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0">1</a></li>
+<li class="pager-current active"><span>2</span></li>
+<li class="pager-item"><a title="Go to page 3" href="../patent-data-patent-valuation-methods.d94b/index0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c?topic-filters=12279&amp;page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C2">3</a></li>
+<li class="pager-next"><a title="Go to next page" href="../patent-data-patent-valuation-methods.d94b/index0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c?topic-filters=12279&amp;page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C2">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="../patent-data-patent-valuation-methods.d94b/index0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c?topic-filters=12279&amp;page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C2">last »</a></li>
+</ul></div></div>  
+  
+  
+  
+  
+</div></div></div></div></div>  </div>
+
+  </div>
+              </div>
+            </div>
+            <div class="col-md-6 radix-layouts-contentcolumn1 radix-layouts-content panel-panel">
+              <div class="panel-panel-inner">
+                              </div>
+            </div>
+            <div class="col-md-6 radix-layouts-contentcolumn2 radix-layouts-content panel-panel">
+              <div class="panel-panel-inner">
+                <div class="panel-pane pane-ipp-content-corresp-country panel panel-default panel-margin-bottom" >
+  
+        <div  class="panel-heading">
+      <h3 class="panel-title">What Countries are Doing</h3>
+    </div>
+    
+  
+  <div class="pane-content panel-body">
+    <img class="ipp-panel-image" src="../../sites/all/modules/features/ipp_content/graphics/faces/index.png" alt="Image description here." title="This is our block image." /><div class="view"><div class="item-list"><ul><li class="first last"><a href="http://qdd.oecd.org/data/STIO_2016/AUT.B6-1+B6-2+B6-3+F2+F3..STIO-2016" target="_blank">Technology transfers and commercialisation</a></li>
+</ul></div></div>  </div>
+
+  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      <div class="col-md-4 radix-layouts-sidebar panel-panel">
+        <div class="panel-panel-inner">
+          <div class="panel-pane pane-ipp-core-addthis-print panel panel-default panel-margin-bottom" >
+  
+      
+  
+  <div class="pane-content panel-body">
+    <span class="print_html"><a href="../../print/12502.21b0e/index0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c0%2c?topic-filters=12279&amp;page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1" title="Display a printer-friendly version of this page." class="print-page" rel="nofollow"><img class="print-icon" typeof="foaf:Image" src="../../sites/all/modules/contrib/print/icons/print_icon/index.png" width="16px" height="16px" alt="Printer-friendly version" title="Printer-friendly version" /></a></span><span class="print_pdf"><a href="https://www.innovationpolicyplatform.org/printpdf/12502?topic-filters=12279&amp;page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1" title="Display a PDF version of this page." class="print-pdf" rel="nofollow"><img class="print-icon" typeof="foaf:Image" src="../../sites/all/modules/contrib/print/print_pdf/icons/pdf_icon/index.png" width="16px" height="16px" alt="PDF version" title="PDF version" /></a></span><!-- ADDTHIS BUTTON BEGIN -->
+    <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+      <a class="addthis_button_facebook" title="Facebook" href="#"></a>
+      <a class="addthis_button_twitter" title="Twitter" href="#"></a>
+      <a class="addthis_button_google_plusone_badge" g:plusone:size="medium" g:plusone:href="../../index/index.html"></a>
+      <a class="addthis_button_linkedin" target="_blank" title="LinkedIn" href="#"></a>
+      <a class="addthis_button_compact" href="#"></a>
+    </div>
+  <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script>
+  <!-- ADDTHIS BUTTON END -->  </div>
+
+  </div>
+<div class="panel-pane pane-ipp-content-module-icon panel panel-default panel-margin-bottom" >
+  
+      
+  
+  <div class="pane-content panel-body">
+    <div class="container-fluid"><div class="row"><a href="../intellectual-property-rights/index.html"><img typeof="foaf:Image" src="../../sites/default/files/balance/index.png" width="16" height="16" alt="" /></a><a href="../intellectual-property-rights/index.html"><span class="top-term-title">Intellectual Property Rights</span></a><h4>Table of Contents</h4></div></div>  </div>
+
+  </div>
+<div class="panel-pane pane-ipp-topic-taxonomy-menu panel panel-default panel-margin-bottom" >
+  
+      
+  
+  <div class="pane-content panel-body">
+    <div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../processes-and-contributions-ip-systems-innovation/index-2.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">Processes and contributions of IP systems to innovation</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../types-ipr/index.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">Types of IPR</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../patents/index.html" class="taxonomy-menu-inactive-term">Patents</a></li>
+<li><a href="../utility-models/index.html" class="taxonomy-menu-inactive-term">Utility models</a></li>
+<li><a href="../trademarks/index.html" class="taxonomy-menu-inactive-term">Trademarks</a></li>
+<li><a href="../copyright/index.html" class="taxonomy-menu-inactive-term">Copyright</a></li>
+<li><a href="../trade-secrets/index.html" class="taxonomy-menu-inactive-term">Trade secrets</a></li>
+<li><a href="../industrial-design/index.html" class="taxonomy-menu-inactive-term">Industrial design</a></li>
+<li><a href="../combined-uses-ip/index.html" class="taxonomy-menu-inactive-term">Combined uses of IP</a></li>
+<li class="last"><a href="../innovation-without-ip/index.html" class="taxonomy-menu-inactive-term">Innovation without IP</a></li>
+</ul></div></li>
+<li class="last"><a href="../rationales-ip-innovation/index.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">Rationales of IP for innovation</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../access-knowledge-and-inventions/index.html" class="taxonomy-menu-inactive-term">Access to knowledge and inventions</a></li>
+<li><a href="../incentives-inventions/index.html" class="taxonomy-menu-inactive-term">Incentives for inventions</a></li>
+<li><a href="../economics-knowledge/index.html" class="taxonomy-menu-inactive-term">Economics of knowledge</a></li>
+<li><a href="../ip-address-social-challenges/index.html" class="taxonomy-menu-inactive-term">IP to address social challenges</a></li>
+<li><a href="../ip-address-information-asymmetries/index.html" class="taxonomy-menu-inactive-term">IP to address information asymmetries</a></li>
+<li class="last"><a href="../ip-and-international-competitiveness-and-trade/index.html" class="taxonomy-menu-inactive-term">IP and international competitiveness and trade</a></li>
+</ul></div></li>
+</ul></div></li>
+<li><a href="../metrics-and-evaluation-ipr/index-2.html" class="taxonomy-menu-trail-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">Metrics and evaluation for IPR</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../aspects-and-availability-patent-data/index-2.html" class="taxonomy-menu-inactive-term">Aspects and availability of patent data</a></li>
+<li><a href="../patent-data-characteristics-innovative-activities/index-2.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">Patent data - Characteristics of innovative activities</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../patent-data-performance-firms-regions-and-countries/index-2.html" class="taxonomy-menu-inactive-term">Patent data - The performance of firms, regions and countries</a></li>
+<li><a href="../patent-data-emerging-technologies/index-2.html" class="taxonomy-menu-inactive-term">Patent data - Emerging technologies</a></li>
+<li><a href="../patent-data-role-universities-technological-development/index-2.html" class="taxonomy-menu-inactive-term">Patent data - The role of universities in technological development</a></li>
+<li><a href="../patent-data-performance-and-mobility-researchers/index-2.html" class="taxonomy-menu-inactive-term">Patent data - The performance and mobility of researchers</a></li>
+<li><a href="../patent-data-geography-invention/index-2.html" class="taxonomy-menu-inactive-term">Patent data - The geography of invention</a></li>
+<li><a href="../patent-data-knowledge-diffusion-and-technological-change/index-2.html" class="taxonomy-menu-inactive-term">Patent data - Knowledge diffusion and technological change</a></li>
+<li><a href="../patent-data-globalisation-research/index.html" class="taxonomy-menu-inactive-term">Patent data - Globalisation of research</a></li>
+<li class="last"><a href="../patent-data-patenting-strategies-firms/index.html" class="taxonomy-menu-inactive-term">Patent data - Patenting strategies of firms</a></li>
+</ul></div></li>
+<li><a href="../patent-data-patent-valuation-methods/index.html" class="taxonomy-menu-active-term">Patent data - Patent valuation methods</a></li>
+<li class="last"><a href="../metrics-ip-standards-regulations-and-legal-systems/index.html" class="taxonomy-menu-inactive-term">Metrics - IP standards, regulations and legal systems</a></li>
+</ul></div></li>
+<li><a href="../ip-users/index-2.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">IP users</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../intellectual-property-rights-and-innovation-firms/index.html" class="taxonomy-menu-inactive-term">Intellectual property rights and innovation in firms</a></li>
+<li><a href="../intellectual-property-rights-and-innovative-entrepreneurship/index.html" class="taxonomy-menu-inactive-term">Intellectual property rights and innovative entrepreneurship</a></li>
+<li><a href="../ip-and-innovators-traditional-and-informal-sectors/index.html" class="taxonomy-menu-inactive-term">IP and innovators in traditional and informal sectors</a></li>
+<li class="last"><a href="../intellectual-property-and-universities-and-pris/index.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">Intellectual property and universities and PRIs</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../ip-licensing-and-sales-universities-and-pris/index.html" class="taxonomy-menu-inactive-term">IP licensing and sales by universities and PRIs</a></li>
+<li><a href="../technology-transfer-offices/index.html" class="taxonomy-menu-inactive-term">Technology transfer offices</a></li>
+<li class="last"><a href="../bayh-dole-and-related-regulation/index.html" class="taxonomy-menu-inactive-term">Bayh-Dole and related regulation</a></li>
+</ul></div></li>
+</ul></div></li>
+<li><a href="../ip-markets-and-diffusion/index-2.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">IP, markets and diffusion</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../ip-and-markets-finance/index.html" class="taxonomy-menu-inactive-term">IP and markets for finance</a></li>
+<li><a href="../open-innovation/index.html" class="taxonomy-menu-inactive-term">Open innovation</a></li>
+<li><a href="../open-source/index.html" class="taxonomy-menu-inactive-term">Open source</a></li>
+<li><a href="../licensing-and-markets-ip/index.html" class="taxonomy-menu-inactive-term">Licensing and markets for IP</a></li>
+<li class="last"><a href="../ip-and-competition/index.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">IP and competition</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../standards-and-ip/index.html" class="taxonomy-menu-inactive-term">Standards and IP</a></li>
+<li><a href="../patent-pools-and-antitrust/index.html" class="taxonomy-menu-inactive-term">Patent pools and antitrust</a></li>
+<li><a href="../proliferation-patents/index.html" class="taxonomy-menu-inactive-term">Proliferation of patents</a></li>
+<li class="last"><a href="../patent-races/index.html" class="taxonomy-menu-inactive-term">Patent races</a></li>
+</ul></div></li>
+</ul></div></li>
+<li><a href="../fields-ip-use/index-2.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">Fields of IP use</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../ip-and-innovation-ict/index.html" class="taxonomy-menu-inactive-term">IP and innovation in ICT</a></li>
+<li><a href="../ip-and-innovation-agriculture/index.html" class="taxonomy-menu-inactive-term">IP and innovation in agriculture</a></li>
+<li><a href="../ip-and-creative-industries/index.html" class="taxonomy-menu-inactive-term">IP and creative industries</a></li>
+<li class="last"><a href="../ip-and-innovation-biotechnology-and-pharmaceuticals/index.html" class="taxonomy-menu-inactive-term">IP and innovation in biotechnology and pharmaceuticals</a></li>
+</ul></div></li>
+<li><a href="../organisation-ip-systems/index-2.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">Organisation of IP systems</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../legal-quality-ip/index.html" class="taxonomy-menu-inactive-term">Legal quality of IP</a></li>
+<li><a href="../ip-operations-and-procedures/index.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">IP operations and procedures</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first last"><a href="../patent-costs/index.html" class="taxonomy-menu-inactive-term">Patent costs</a></li>
+</ul></div></li>
+<li><a href="../ip-law/index.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">IP law</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../substantive-patent-law/index.html" class="taxonomy-menu-inactive-term">Substantive patent law</a></li>
+<li><a href="../trademark-law/index.html" class="taxonomy-menu-inactive-term">Trademark law</a></li>
+<li class="last"><a href="../utility-model-law/index.html" class="taxonomy-menu-inactive-term">Utility model law</a></li>
+</ul></div></li>
+<li><a href="../ip-enforcement-and-litigation/index.html" class="taxonomy-menu-inactive-term">IP enforcement and litigation</a></li>
+<li><a href="../international-dimensions-ip-systems/index.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">International dimensions of IP systems</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../international-agreements-ip/index.html" class="taxonomy-menu-inactive-term">International agreements on IP</a></li>
+<li class="last"><a href="../international-bodies-ip/index.html" class="taxonomy-menu-inactive-term">International bodies on IP</a></li>
+</ul></div></li>
+<li class="last"><a href="../ip-skills-and-training/index.html" class="taxonomy-menu-inactive-term">IP skills and training</a></li>
+</ul></div></li>
+<li class="last"><a href="../connecting-ip-innovation-policies/index-2.html" class="taxonomy-menu-inactive-term has-handler"><button type="button" class="taxonomy-menu-handler btn btn-xs btn-primary pull-left"><i class="glyphicon glyphicon-plus"></i><i class="glyphicon glyphicon-minus"></i></button> <span class="handler-label">Connecting IP to innovation policies</span></a><div class="item-list"><ul class="nav nav-pills nav-stacked"><li class="first"><a href="../characteristics-ip-policies-relative-other-innovation-policies/index.html" class="taxonomy-menu-inactive-term">Characteristics of IP policies relative to other innovation policies</a></li>
+<li><a href="../policy-design-ip/index-2.html" class="taxonomy-menu-inactive-term">Policy design for IP</a></li>
+<li class="last"><a href="../governance-ip/index.html" class="taxonomy-menu-inactive-term">Governance of IP</a></li>
+</ul></div></li>
+</ul></div>  </div>
+
+  </div>
+<div class="panel-pane pane-ipp-content-topic-other panel panel-default panel-margin-bottom" >
+  
+        <div  class="panel-heading">
+      <h3 class="panel-title">Other Relevant IPP Pages</h3>
+    </div>
+    
+  
+  <div class="pane-content panel-body">
+    <img class="ipp-panel-image" src="../../sites/all/modules/features/ipp_content/graphics/ipp_logo/index.png" alt="Image description here." title="This is our block image." /><div class="view"><div class="item-list"><ul><li class="first"><a href="../patent-data-performance-and-mobility-researchers/index-2.html">Patent data - The performance and mobility of researchers</a></li>
+<li><a href="../aspects-and-availability-patent-data/index-2.html">Aspects and availability of patent data</a></li>
+<li><a href="../patent-data-emerging-technologies/index-2.html">Patent data - Emerging technologies</a></li>
+<li><a href="../patent-data-globalisation-research/index.html">Patent data - Globalisation of research</a></li>
+<li><a href="../patent-data-patenting-strategies-firms/index.html">Patent data - Patenting strategies of firms</a></li>
+<li><a href="../patent-data-performance-firms-regions-and-countries/index-2.html">Patent data - The performance of firms, regions and countries</a></li>
+<li><a href="../patent-data-role-universities-technological-development/index-2.html">Patent data - The role of universities in technological development</a></li>
+<li class="last"><a href="../substantive-patent-law/index.html">Substantive patent law</a></li>
+</ul></div></div>  </div>
+
+  </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div><!-- /.bartlett-flipped -->
+</div><div class="backlink"><a href="javascript:history.go(-1);">Back</a></div>  </div>
+</div>
+  </div>
+                  </div>
+
+        
+      </div>
+    </div>
+  </div>
+  <div id="push"></div>
+</div>
+
+<footer id="footer" class="footer" role="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-inner">
+            <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+      
+  <div class="content">
+    <div><a class="footer-oecd" href="http://www.oecd.org/" target="_blank"><img style="height: 43px;" src="../../sites/default/files/OECD-IPP_logo/index.png" alt="oecd" height="43" /></a><a class="footer-wb" href="http://www.worldbank.org/" target="_blank"><img src="../../sites/default/files/WBG_Horizontal-white-web/index.png" alt="wb" /></a></div>  </div>
+</div>
+<div id="block-menu-menu-footer-menu" class="block block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="../../index/index.html" title="">Home</a></li>
+<li class="leaf"><a href="../../about/index.html" title="">About</a></li>
+<li class="leaf"><a href="../../news/index.html" title="">News</a></li>
+<li class="leaf"><a href="../../contact/index.html" title="">Contact</a></li>
+<li class="leaf"><a href="../disclaimer/index.html" title="">Disclaimer</a></li>
+<li class="last leaf"><a href="../../nolink/index.html" title="">Sign In</a></li>
+</ul>  </div>
+</div>
+<div id="block-block-2" class="block block-block">
+
+      
+  <div class="content">
+    <div class="credits">&copy;2013 World Bank &amp; OECD</div>  </div>
+</div>
+  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+  <script type="text/javascript" src="../../sites/all/modules/features/ipp_cop_list/ipp_cop_list/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/panopoly/panopoly_widgets/panopoly-widgets/index.js?ptnq9d"></script>
+<script type="text/javascript" src="../../profiles/openatrium/modules/panopoly/panopoly_widgets/panopoly-widgets-spotlight/index.js?ptnq9d"></script>
+</body>
+
+<!-- Mirrored from www.innovationpolicyplatform.org/content/patent-data-patent-valuation-methods?topic-filters=12279&page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1 by HTTrack Website Copier/3.x [XR&CO'2013], Wed, 26 Jun 2019 04:45:23 GMT -->
+</html>

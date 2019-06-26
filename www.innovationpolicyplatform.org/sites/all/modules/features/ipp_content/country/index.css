@@ -1,0 +1,46 @@
+
+
+.panel-default {
+  border-color: transparent !important;
+}
+
+.panel-heading {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.panel-heading h3 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.pane-ipp-content-country-hot .panel-body h3,
+.pane-ipp-content-country-highlights .panel-body h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.pane-ipp-content-country-hot .panel-body .stio-links h3,
+.pane-ipp-content-country-highlights .panel-body .stio-links h3 {
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.pane-ipp-content-country-other .panel-body h3 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.contry-intro-text {
+  margin-bottom: 15px;
+}
+
+.not-logged-in #contextual-tabs {
+  display: none;
+}
+
+.ipp-country-chart {
+  margin-bottom: 20px;
+  max-width: 240px;
+}
